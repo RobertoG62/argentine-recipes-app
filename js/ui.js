@@ -66,7 +66,8 @@ const UI = (() => {
                     >
                 </div>
                 <div class="p-4">
-                    <h3 class="font-bold text-lg mb-1 text-ar-charcoal">${recipe.title}</h3>
+                    <h3 class="font-bold text-lg mb-0.5 text-ar-charcoal">${recipe.title}</h3>
+                    ${recipe.originalName ? `<p class="text-ar-gold-dark text-xs italic mb-2 font-playfair">${recipe.originalName}</p>` : ''}
                     <p class="text-ar-text-secondary text-sm line-clamp-2 mb-3">${recipe.description}</p>
                     <div class="flex items-center justify-between text-xs text-ar-text-secondary">
                         <div class="flex items-center gap-3">
@@ -114,6 +115,7 @@ const UI = (() => {
                         <h1 class="font-playfair text-3xl md:text-4xl lg:text-5xl font-bold text-white">
                             ${recipe.title}
                         </h1>
+                        ${recipe.originalName ? `<p class="text-ar-gold-light text-base md:text-lg italic font-playfair mt-1">${recipe.originalName}</p>` : ''}
                         <p class="text-gray-300 mt-2 text-base md:text-lg max-w-xl">${recipe.description}</p>
                     </div>
                 </div>

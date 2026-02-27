@@ -5,7 +5,7 @@
       "title": "אסאדו ארגנטינאי",
       "description": "הצלייה הארגנטינאית המסורתית — חגיגה של בשר על האש שמלכדת את הנשמה של ארגנטינה. ארוחה משפחתית עם צלעות בקר, צ'וריסו וצ'ימיצ'ורי טרי.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1558030006-450675393462?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?asado,parrilla,carne",
       "prepTime": 30,
       "cookTime": 180,
       "servings": 8,
@@ -62,14 +62,15 @@
         "ארוחה משפחתית",
         "מסורתי",
         "שבת"
-      ]
+      ],
+      "originalName": "Asado Argentino"
     },
     {
       "id": "empanadas-carne",
       "title": "אמפנדות בשר",
       "description": "כיסנים ארגנטינאיים במילוי בשר טחון מתובל, ביצים קשות וזיתים — המאפה הלאומי של ארגנטינה שנאפה בתנור עד להזהבה מושלמת.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?empanadas,argentinas",
       "prepTime": 45,
       "cookTime": 25,
       "servings": 12,
@@ -158,14 +159,15 @@
         "ארוחת צהריים",
         "מסיבה",
         "חטיף"
-      ]
+      ],
+      "originalName": "Empanadas de Carne"
     },
     {
       "id": "chimichurri",
       "title": "צ'ימיצ'ורי",
       "description": "רוטב הדגל של ארגנטינה — תערובת חיונית של פטרוזיליה, שום, חומץ ושמן זית שמלווה כל אסאדו שמכבד את עצמו.",
       "category": "תוספות",
-      "image": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?chimichurri,salsa,herbs",
       "prepTime": 15,
       "cookTime": 0,
       "servings": 8,
@@ -225,14 +227,15 @@
         "ללא בישול",
         "אסאדו",
         "בסיסי"
-      ]
+      ],
+      "originalName": "Chimichurri"
     },
     {
       "id": "alfajores",
       "title": "אלפחורס",
       "description": "עוגיות סנדוויץ' עדינות ומתפוררות במילוי דולסה דה לצ'ה עשיר — הממתק האהוב ביותר בארגנטינה, מצופות קוקוס מגורד.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1558312657-b2dead03d494?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?alfajores,dulce+de+leche",
       "prepTime": 30,
       "cookTime": 12,
       "servings": 20,
@@ -305,14 +308,15 @@
         "דולסה דה לצ'ה",
         "מתוק",
         "קלאסי"
-      ]
+      ],
+      "originalName": "Alfajores de Maicena"
     },
     {
       "id": "dulce-de-leche",
       "title": "דולסה דה לצ'ה",
       "description": "ריבת החלב הארגנטינאית המפורסמת — קרמל חלבי עמוק ועשיר שמכין את עצמו כמעט לבד. הבסיס לאינספור קינוחים.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1631206616829-6845a0b3e25a?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?dulce+de+leche,caramel",
       "prepTime": 5,
       "cookTime": 120,
       "servings": 10,
@@ -353,14 +357,15 @@
         "קרמל",
         "בסיסי",
         "ללא תנור"
-      ]
+      ],
+      "originalName": "Dulce de Leche"
     },
     {
       "id": "milanesa",
       "title": "מילנסה ארגנטינאית",
       "description": "שניצל הבקר הארגנטינאי — פרוסות בשר דקות מצופות בפירורי לחם מתובלים וטגונות עד לפריכות זהובה. מוגש עם לימון ותפוחי אדמה.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1585325701165-351af045e1b3?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?milanesa,schnitzel,breaded",
       "prepTime": 20,
       "cookTime": 15,
       "servings": 4,
@@ -421,14 +426,15 @@
         "טיגון",
         "ארוחת ערב",
         "ילדים"
-      ]
+      ],
+      "originalName": "Milanesa de Carne"
     },
     {
       "id": "choripan",
       "title": "צ'וריפן",
       "description": "סנדוויץ' הרחוב הארגנטינאי האולטימטיבי — נקניקיית צ'וריסו עסיסית בתוך לחם פריך, מוטבלת בצ'ימיצ'ורי. פשוט וגאוני.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?choripan,chorizo,sandwich",
       "prepTime": 10,
       "cookTime": 15,
       "servings": 4,
@@ -468,14 +474,15 @@
         "גריל",
         "מהיר",
         "כדורגל"
-      ]
+      ],
+      "originalName": "Choripán"
     },
     {
       "id": "provoleta",
       "title": "פרובולטה",
       "description": "גבינת פרובולונה צלויה על הגריל עד שנמסה מבפנים ומקבלת שכבה פריכה מבחוץ — המנה הפותחת של כל אסאדו ארגנטינאי.",
       "category": "תוספות",
-      "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?provoleta,grilled+cheese",
       "prepTime": 5,
       "cookTime": 10,
       "servings": 4,
@@ -525,14 +532,15 @@
         "מנה פותחת",
         "צמחוני",
         "אסאדו"
-      ]
+      ],
+      "originalName": "Provoleta"
     },
     {
       "id": "mate",
       "title": "מאטה",
       "description": "המשקה הלאומי של ארגנטינה — חליטת צמחים מסורתית שנלגמת מכלי ייעודי דרך קשית מתכת. יותר מסתם משקה — זהו טקס חברתי.",
       "category": "משקאות",
-      "image": "https://images.unsplash.com/photo-1576487236230-eaa4afe68192?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?mate,yerba+mate,argentina",
       "prepTime": 5,
       "cookTime": 5,
       "servings": 1,
@@ -573,14 +581,15 @@
         "חברתי",
         "ירבה",
         "ארגנטינה"
-      ]
+      ],
+      "originalName": "Mate"
     },
     {
       "id": "locro",
       "title": "לוקרו",
       "description": "התבשיל הלאומי של ארגנטינה — מרק חורפי עשיר ומשביע של תירס לבן, דלעת, שעועית ובשר, שמתבשל לאט עד לשלמות.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?locro,stew,argentina",
       "prepTime": 30,
       "cookTime": 240,
       "servings": 10,
@@ -668,14 +677,15 @@
         "מרק",
         "יום העצמאות",
         "ארוחה משפחתית"
-      ]
+      ],
+      "originalName": "Locro"
     },
     {
       "id": "salsa-criolla",
       "title": "סלסה קריאויה",
       "description": "הסלסה הטרייה שמלווה כל אסאדו ארגנטינאי — שילוב צבעוני של עגבניות, בצל, פלפלים, אורגנו וחומץ שמוסיף חיוניות לכל צלחת בשר.",
       "category": "תוספות",
-      "image": "https://images.unsplash.com/photo-1560391564-7b01e85b1528?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?salsa+criolla,tomato,onion",
       "prepTime": 15,
       "cookTime": 0,
       "servings": 6,
@@ -737,14 +747,15 @@
         "אסאדו",
         "ללא בישול",
         "תוספת"
-      ]
+      ],
+      "originalName": "Salsa Criolla"
     },
     {
       "id": "ensalada-rusa",
       "title": "אנסלדה רוסה",
       "description": "סלט הפוטטו הארגנטינאי הקלאסי — תפוחי אדמה, אפונה, גזר וביצים קשות במעטפת מיונז קרמית. מנת חובה בכל חגיגה משפחתית.",
       "category": "תוספות",
-      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?ensalada+rusa,potato+salad",
       "prepTime": 20,
       "cookTime": 25,
       "servings": 8,
@@ -805,14 +816,15 @@
         "מיונז",
         "חגיגות",
         "ארוחה משפחתית"
-      ]
+      ],
+      "originalName": "Ensalada Rusa"
     },
     {
       "id": "papas-fritas-a-la-provenzal",
       "title": "פאפס פריטס א לה פרובנסל",
       "description": "צ'יפס ארגנטינאי מושלם מוקפץ עם שום קצוץ ופטרוזיליה טרייה — התוספת שכל ארגנטינאי מזמין לצד המילנסה.",
       "category": "תוספות",
-      "image": "https://images.unsplash.com/photo-1630384060421-cb20acd7d5e2?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?papas+fritas,garlic,fries",
       "prepTime": 15,
       "cookTime": 20,
       "servings": 4,
@@ -863,14 +875,15 @@
         "שום",
         "תוספת",
         "אוכל רחוב"
-      ]
+      ],
+      "originalName": "Papas Fritas a la Provenzal"
     },
     {
       "id": "submarino",
       "title": "סובמרינו",
       "description": "השוקו הארגנטינאי הייחודי — חלב חם רותח שמגישים עם חתיכת שוקולד שטובלים בפנים עד שנמסה לאט. חוויה מתוקה ומחממת.",
       "category": "משקאות",
-      "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?hot+chocolate,milk,chocolate",
       "prepTime": 2,
       "cookTime": 5,
       "servings": 1,
@@ -911,14 +924,15 @@
         "מריאנדה",
         "ילדים",
         "חורף"
-      ]
+      ],
+      "originalName": "Submarino"
     },
     {
       "id": "licuado-de-banana",
       "title": "ליקואדו דה בננה",
       "description": "שייק הבננה הארגנטינאי הקלאסי — פשוט, קרמי ומרענן. משקה הבוקר והמריאנדה שכל ארגנטינאי גדל עליו.",
       "category": "משקאות",
-      "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?banana+smoothie,milkshake",
       "prepTime": 5,
       "cookTime": 0,
       "servings": 2,
@@ -964,14 +978,15 @@
         "מריאנדה",
         "מהיר",
         "ילדים"
-      ]
+      ],
+      "originalName": "Licuado de Banana"
     },
     {
       "id": "fernet-con-coca",
       "title": "פרנט קון קוקה",
       "description": "הקוקטייל הלאומי הבלתי רשמי של ארגנטינה — פרנט ברנקה מריר ועוצמתי ממותן בקוקה-קולה קרה, מוגש על קרח בכוס גבוהה.",
       "category": "משקאות",
-      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?fernet+branca,cocktail,argentina",
       "prepTime": 2,
       "cookTime": 0,
       "servings": 1,
@@ -1012,14 +1027,15 @@
         "מסיבה",
         "חברתי",
         "קורדובה"
-      ]
+      ],
+      "originalName": "Fernet con Coca"
     },
     {
       "id": "humita-en-chala",
       "title": "הומיטה אן צ'אלה",
       "description": "תמלה ארגנטינאית מתוקה-מלוחה של תירס טרי מאודה בעלי תירס — מנת נוחות מסורתית מהצפון הארגנטינאי שמדגישה את מתיקות התירס בעונתו.",
       "category": "תוספות",
-      "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?humita,tamale,corn",
       "prepTime": 40,
       "cookTime": 45,
       "servings": 8,
@@ -1082,14 +1098,15 @@
         "צפון ארגנטינה",
         "צמחוני",
         "מסורתי"
-      ]
+      ],
+      "originalName": "Humita en Chala"
     },
     {
       "id": "carbonada",
       "title": "קרבונדה",
       "description": "תבשיל בקר מתוק-מלוח ייחודי עם דלעת, תירס, אפרסקים ותפוחי אדמה — שילוב ארגנטינאי מפתיע שלפעמים מוגש בתוך דלעת חלולה.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1534483509719-8937b5e6be8a?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?beef+stew,pumpkin,sweet",
       "prepTime": 25,
       "cookTime": 90,
       "servings": 6,
@@ -1161,14 +1178,15 @@
         "דלעת",
         "חורף",
         "ארוחה משפחתית"
-      ]
+      ],
+      "originalName": "Carbonada"
     },
     {
       "id": "guiso-de-lentejas",
       "title": "גיסו דה לנטחס",
       "description": "תבשיל עדשים ארגנטינאי עשיר עם צ'וריסו, תפוחי אדמה וירקות — מנת הנוחות האולטימטיבית לימי חורף קרים שמחממת גוף ונשמה.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1511910849309-0dffb8785146?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?lentil+stew,chorizo",
       "prepTime": 15,
       "cookTime": 60,
       "servings": 6,
@@ -1240,14 +1258,15 @@
         "חורף",
         "צ'וריסו",
         "מזל"
-      ]
+      ],
+      "originalName": "Guiso de Lentejas"
     },
     {
       "id": "cazuela-de-mondongo",
       "title": "קסואלה דה מונדונגו",
       "description": "תבשיל כרס בקר ארגנטינאי מסורתי המבושל לאט עם ירקות ושעועית לבנה — מנה עממית עתירת טעם שדורשת סבלנות אך מתגמלת בגדול.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1583953026297-af76cdd9ba4c?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?tripe+stew,mondongo",
       "prepTime": 30,
       "cookTime": 180,
       "servings": 8,
@@ -1319,14 +1338,15 @@
         "בישול איטי",
         "שעועית",
         "שבת"
-      ]
+      ],
+      "originalName": "Cazuela de Mondongo"
     },
     {
       "id": "puchero-criollo",
       "title": "פוצ'רו קריאויו",
       "description": "הארוחה המבושלת המסורתית של ארגנטינה — בקר, תירס, דלעת וירקות שורש מתבשלים יחד בסיר אחד ליצירת ציר עמוק ובשר שנמס בפה.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1594756202469-9ff9799b2e4e?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?puchero,boiled+dinner,beef",
       "prepTime": 20,
       "cookTime": 150,
       "servings": 8,
@@ -1393,14 +1413,15 @@
         "מסורתי",
         "ירקות שורש",
         "חורף"
-      ]
+      ],
+      "originalName": "Puchero Criollo"
     },
     {
       "id": "sopa-de-zapallo",
       "title": "סופה דה סאפאיו",
       "description": "מרק דלעת קרמי בסגנון ארגנטינאי עם נגיעה של אגוז מוסקט — מנה מחממת ופשוטה שמדגישה את מתיקותה הטבעית של הדלעת.",
       "category": "תוספות",
-      "image": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?pumpkin+soup,butternut",
       "prepTime": 15,
       "cookTime": 35,
       "servings": 6,
@@ -1461,14 +1482,15 @@
         "קרמי",
         "חורף",
         "צמחוני"
-      ]
+      ],
+      "originalName": "Sopa de Zapallo"
     },
     {
       "id": "empanadas-de-humita",
       "title": "אמפנדות דה הומיטה",
       "description": "אמפנדות ממולאות בתירס קרמי ומתקתק — שילוב מנצח של בצק פריך ומילוי עסיסי שמדגיש את מיטב התירס הארגנטינאי.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?empanadas,corn+filling",
       "prepTime": 40,
       "cookTime": 25,
       "servings": 12,
@@ -1535,14 +1557,15 @@
         "צמחוני",
         "אמפנדות",
         "ארוחה קלה"
-      ]
+      ],
+      "originalName": "Empanadas de Humita"
     },
     {
       "id": "tamales-tucumanos",
       "title": "טמאלס טוקומנוס",
       "description": "טמאלס מהצפון הארגנטינאי — כיסי תירס ממולאים בבשר בקר מתובל ועטופים בעלי תירס, מבושלים באדים. מנת הדגל של טוקומן.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1590083948612-d89e8a12cde8?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?tamales,corn+husk,tucuman",
       "prepTime": 60,
       "cookTime": 90,
       "servings": 10,
@@ -1610,14 +1633,15 @@
         "תירס",
         "בשר בקר",
         "מסורתי"
-      ]
+      ],
+      "originalName": "Tamales Tucumanos"
     },
     {
       "id": "milanesa-napolitana",
       "title": "מילנסה נפוליטנה",
       "description": "שניצל בקר מצופה פירורי לחם ועליו רוטב עגבניות, חזה ונקניק מעושן וגבינה מותכת — גרסת הפרימיום של המילנסה הארגנטינאית שנולדה בבואנוס איירס.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?milanesa+napolitana,cheese,ham",
       "prepTime": 25,
       "cookTime": 20,
       "servings": 4,
@@ -1667,14 +1691,15 @@
         "ארוחת ערב",
         "בשר בקר",
         "קלאסי"
-      ]
+      ],
+      "originalName": "Milanesa a la Napolitana"
     },
     {
       "id": "revuelto-gramajo",
       "title": "רבואלטו גרמחו",
       "description": "ביצים מקושקשות עם תפוחי אדמה חתוכים דק, חזה מעושן, אפונה ובצל — מנת הבר הקלאסית של בואנוס איירס שנולדה מאילתור גאוני.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?scrambled+eggs,potatoes,ham",
       "prepTime": 15,
       "cookTime": 15,
       "servings": 4,
@@ -1730,14 +1755,15 @@
         "בר",
         "מהיר",
         "בואנוס איירס"
-      ]
+      ],
+      "originalName": "Revuelto Gramajo"
     },
     {
       "id": "suprema-de-pollo",
       "title": "סופרמה דה פויו",
       "description": "חזה עוף מצופה בפירורי לחם בסגנון ארגנטינאי — הגרסה הקלה יותר של המילנסה, פריכה מבחוץ ועסיסית מבפנים.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1562967914-608f82629710?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?chicken+schnitzel,breaded+chicken",
       "prepTime": 15,
       "cookTime": 12,
       "servings": 4,
@@ -1797,14 +1823,15 @@
         "ארוחת צהריים",
         "ילדים",
         "מהיר"
-      ]
+      ],
+      "originalName": "Suprema de Pollo"
     },
     {
       "id": "sorrentinos",
       "title": "סורנטינוס",
       "description": "פסטה ממולאת עגולה וגדולה — כמו רביולי ענק — במילוי חזה מעושן ומוצרלה, מוגשת ברוטב סלסה רוסה קרמי. המורשת האיטלקית של ארגנטינה.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1587740908075-9e245070dfaa?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?sorrentinos,stuffed+pasta,ravioli",
       "prepTime": 60,
       "cookTime": 15,
       "servings": 4,
@@ -1865,14 +1892,15 @@
         "גבינה",
         "ארוחת ערב",
         "חגיגי"
-      ]
+      ],
+      "originalName": "Sorrentinos de Jamón y Queso"
     },
     {
       "id": "tallarines-caseros",
       "title": "טאיארינס קסרוס",
       "description": "פטוצ'יני ביתיות ברוטב טוקו — רוטב עגבניות ובשר ארגנטינאי שמתבשל לאט. יום ראשון בבית סבתא ארגנטינאית.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?fresh+pasta,fettuccine,meat+sauce",
       "prepTime": 45,
       "cookTime": 90,
       "servings": 6,
@@ -1938,14 +1966,15 @@
         "איטלקי-ארגנטינאי",
         "יום ראשון",
         "ביתי"
-      ]
+      ],
+      "originalName": "Tallarines con Tuco"
     },
     {
       "id": "noquis-del-29",
       "title": "ניוקי דל 29",
       "description": "ניוקי תפוחי אדמה שנאכלים בכל 29 לחודש — מסורת ארגנטינאית שמביאה מזל. שמים שטר כסף מתחת לצלחת ומבקשים משאלה.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?gnocchi,potato+gnocchi,pasta",
       "prepTime": 30,
       "cookTime": 25,
       "servings": 4,
@@ -2001,14 +2030,15 @@
         "מסורת",
         "מזל",
         "29 לחודש"
-      ]
+      ],
+      "originalName": "Ñoquis del 29"
     },
     {
       "id": "matambre-arrollado",
       "title": "מטמברה ארויאדו",
       "description": "מטמברה (בשר דופן) מגולגלת וממולאת בביצים קשות, פלפלים וזיתים — מנה פותחת חגיגית שמוגשת קרה בפרוסות דקות. אמנות קולינרית ארגנטינאית.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?matambre,rolled+meat,stuffed",
       "prepTime": 40,
       "cookTime": 90,
       "servings": 10,
@@ -2075,14 +2105,15 @@
         "בשר בקר",
         "מוגש קר",
         "מטמברה"
-      ]
+      ],
+      "originalName": "Matambre Arrollado"
     },
     {
       "id": "vacio-a-la-parrilla",
       "title": "ואסיו א לה פרייה",
       "description": "נתח הואסיו הארגנטינאי הנערץ — בשר דופן תחתון עם שכבת שומן עליונה שנצלה לאט על הגריל עד שנמסה בפה.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1529694157872-4e0c0f3b238b?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?vacio,flank+steak,parrilla",
       "prepTime": 10,
       "cookTime": 120,
       "servings": 6,
@@ -2123,14 +2154,15 @@
         "ואסיו",
         "אסאדו",
         "פרימיום"
-      ]
+      ],
+      "originalName": "Vacío a la Parrilla"
     },
     {
       "id": "entrana-a-la-parrilla",
       "title": "אנטרניה א לה פרייה",
       "description": "סטייק אנטרניה (סקירט סטייק) צלוי על אש גבוהה — נתח בקר עסיסי ועתיר טעם שנצרב מהר ומוגש מדיום-ריר.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1558030137-a56c1b004294?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?entrana,skirt+steak,grilled",
       "prepTime": 10,
       "cookTime": 10,
       "servings": 4,
@@ -2175,14 +2207,15 @@
         "אנטרניה",
         "מהיר",
         "אסאדו"
-      ]
+      ],
+      "originalName": "Entraña a la Parrilla"
     },
     {
       "id": "bondiola-braseada",
       "title": "בונדיולה בראסיאדה",
       "description": "צוואר חזיר (בונדיולה) שנצרב ומתבשל לאט בבירה או יין אדום עד שהבשר מתפורר — מנת הנוחות הארגנטינאית שמחממת חורפים.",
       "category": "בשרים",
-      "image": "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?pulled+pork,braised+pork,bondiola",
       "prepTime": 15,
       "cookTime": 240,
       "servings": 8,
@@ -2244,14 +2277,15 @@
         "בירה",
         "נוחות",
         "חורף"
-      ]
+      ],
+      "originalName": "Bondiola Braseada"
     },
     {
       "id": "medialunas-de-manteca",
       "title": "מדיאלונס דה מנטקה",
       "description": "קרואסונים ארגנטינאיים מחמאה — מאפה הבוקר הקלאסי של בואנוס איירס, בצק שכבות עדין עם ציפוי דבש מבריק. לא מתחילים בוקר בלעדיהם.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1555507036-ab1f4038024a?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?medialunas,croissant,pastry",
       "prepTime": 120,
       "cookTime": 18,
       "servings": 24,
@@ -2324,14 +2358,15 @@
         "חמאה",
         "בואנוס איירס",
         "קרואסון"
-      ]
+      ],
+      "originalName": "Medialunas de Manteca"
     },
     {
       "id": "medialunas-de-grasa",
       "title": "מדיאלונס דה גרסה",
       "description": "קרואסונים ארגנטינאיים משומן — הגרסה המלוחה של המדיאלונס, עם פנים רך וקרום חיצוני פריך. מושלמים למריחת חמאה וריבה.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1509365390695-33aee754301f?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?medialunas,bread+roll,pastry",
       "prepTime": 90,
       "cookTime": 18,
       "servings": 20,
@@ -2388,14 +2423,15 @@
         "מלוח",
         "קלאסי",
         "פנדריה"
-      ]
+      ],
+      "originalName": "Medialunas de Grasa"
     },
     {
       "id": "facturas-surtidas",
       "title": "פקטורס סורטידס",
       "description": "מגוון מאפי שמרים ארגנטינאיים — מבחר של ויחילנטס, קניונסיטוס וסקרמנטוס ממולאים בקרם, דולסה דה לצ'ה או ריבה. נשמת הפנדריה.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?facturas,pastries,bakery",
       "prepTime": 90,
       "cookTime": 15,
       "servings": 24,
@@ -2468,14 +2504,15 @@
         "ארוחת בוקר",
         "מגוון",
         "מתוק"
-      ]
+      ],
+      "originalName": "Facturas Surtidas"
     },
     {
       "id": "bizcochos-de-grasa",
       "title": "ביסקוצ'וס דה גרסה",
       "description": "ביסקוויטים מלוחים משומן חזיר — חטיף פריך ושברירי שמלווה את המאטה בכל מריאנדה ארגנטינאית. פשוט, מהיר ומכני.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?biscuits,crackers,savory",
       "prepTime": 20,
       "cookTime": 20,
       "servings": 30,
@@ -2526,14 +2563,15 @@
         "מאטה",
         "מריאנדה",
         "פשוט"
-      ]
+      ],
+      "originalName": "Bizcochos de Grasa"
     },
     {
       "id": "pan-de-campo",
       "title": "פאן דה קמפו",
       "description": "לחם הכפר הארגנטינאי — עגול, שטוח וכבד עם קרום עבה ופנים צפוף. הלחם שליווה את הגאוצ'וס בפמפה הארגנטינאית.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?rustic+bread,country+bread",
       "prepTime": 20,
       "cookTime": 35,
       "servings": 8,
@@ -2584,14 +2622,15 @@
         "גאוצ'ו",
         "פמפה",
         "בסיסי"
-      ]
+      ],
+      "originalName": "Pan de Campo"
     },
     {
       "id": "torta-fritas",
       "title": "טורטה פריטס",
       "description": "עיגולי בצק מטוגנים — המנה שמכינים בארגנטינה כשיורד גשם. מסורת מתוקה-מלוחה שמלווה את ימי החורף עם מאטה חם.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?torta+frita,fried+dough",
       "prepTime": 15,
       "cookTime": 15,
       "servings": 12,
@@ -2647,14 +2686,15 @@
         "מאטה",
         "מריאנדה",
         "מסורתי"
-      ]
+      ],
+      "originalName": "Torta Fritas"
     },
     {
       "id": "chipas",
       "title": "צ'יפס",
       "description": "כדורי לחם גבינה גמישים מקמח טפיוקה — מאפה מהליטוראל הארגנטינאי (מסופוטמיה) עם פנים לח וגומי וטעם גבינה עמוק.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?chipa,cheese+bread,tapioca",
       "prepTime": 15,
       "cookTime": 20,
       "servings": 20,
@@ -2705,14 +2745,15 @@
         "ליטוראל",
         "ללא גלוטן",
         "חטיף"
-      ]
+      ],
+      "originalName": "Chipá"
     },
     {
       "id": "fugazzeta",
       "title": "פוגאסטה",
       "description": "פיצה ארגנטינאית כפולה ממולאת בגבינה עם שכבת בצל מקורמל עליונה — המצאה של בואנוס איירס שהפכה את הפיצה לאירוע ארגנטינאי.",
       "category": "מאפים",
-      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?fugazzeta,pizza,onion+pizza",
       "prepTime": 90,
       "cookTime": 25,
       "servings": 8,
@@ -2779,14 +2820,15 @@
         "בצל",
         "בואנוס איירס",
         "איטלקי-ארגנטינאי"
-      ]
+      ],
+      "originalName": "Fugazzeta"
     },
     {
       "id": "rogel",
       "title": "רוגל",
       "description": "עוגת שכבות ארגנטינאית מרהיבה — עשרות שכבות בצק דקיקות עם דולסה דה לצ'ה ביניהן, מכוסה במרנג איטלקי לבן ומבריק. הקינוח הכי חגיגי בארגנטינה.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?rogel,layer+cake,meringue",
       "prepTime": 60,
       "cookTime": 40,
       "servings": 12,
@@ -2853,14 +2895,15 @@
         "מרנג",
         "חגיגי",
         "חגים"
-      ]
+      ],
+      "originalName": "Rogel"
     },
     {
       "id": "flan-con-dulce-de-leche",
       "title": "פלאן קון דולסה דה לצ'ה",
       "description": "פלאן קרמל ארגנטינאי קלאסי — קסטרד אפוי עדין שנהפך על צלחת עם קרמל שורף, ומוגש עם דולסה דה לצ'ה וקצפת. הקינוח הלאומי.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?flan,caramel+custard,dessert",
       "prepTime": 15,
       "cookTime": 60,
       "servings": 8,
@@ -2922,14 +2965,15 @@
         "קסטרד",
         "דולסה דה לצ'ה",
         "קלאסי"
-      ]
+      ],
+      "originalName": "Flan con Dulce de Leche"
     },
     {
       "id": "postre-balcarce",
       "title": "פוסטרה בלקרסה",
       "description": "עוגת שכבות מהעיר בלקרסה — ספוג, מרנג, קרם, דולסה דה לצ'ה ופירות. הקינוח הארגנטינאי הכי אלגנטי שנולד בשנות ה-50.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?layer+cake,cream+cake,meringue+cake",
       "prepTime": 45,
       "cookTime": 30,
       "servings": 10,
@@ -2991,14 +3035,15 @@
         "קצפת",
         "חגיגי",
         "בלקרסה"
-      ]
+      ],
+      "originalName": "Postre Balcarce"
     },
     {
       "id": "queso-y-dulce",
       "title": "קסו אי דולסה",
       "description": "הקינוח הארגנטינאי הכי פשוט והכי מושלם — פרוסת גבינה רכה לצד ממרח בטטה או חבושים. שלמות בפשטות מוחלטת.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1486485764572-92b96f21882a?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?cheese,quince+paste,membrillo",
       "prepTime": 5,
       "cookTime": 0,
       "servings": 4,
@@ -3032,14 +3077,15 @@
         "ללא בישול",
         "מסורתי",
         "פשוט"
-      ]
+      ],
+      "originalName": "Queso y Dulce"
     },
     {
       "id": "chocotorta",
       "title": "צ'וקוטורטה",
       "description": "עוגת יום ההולדת של ארגנטינה — שכבות עוגיות שוקולד 'צ'וקולינס' ספוגות בקפה, עם קרם דולסה דה לצ'ה וגבינת שמנת. ללא אפייה, מכנית.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?chocotorta,chocolate+cake,no+bake",
       "prepTime": 20,
       "cookTime": 0,
       "servings": 10,
@@ -3085,14 +3131,15 @@
         "ללא אפייה",
         "יום הולדת",
         "דולסה דה לצ'ה"
-      ]
+      ],
+      "originalName": "Chocotorta"
     },
     {
       "id": "vigilante",
       "title": "ויחילנטה",
       "description": "גבינה מר דל פלאטה עם ממרח חבושים — שם נוסף לשילוב הקלאסי שמגיע כקינוח בכל מסעדה ארגנטינאית, פשוט ומושלם.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?cheese,quince+paste,dessert",
       "prepTime": 5,
       "cookTime": 0,
       "servings": 4,
@@ -3126,14 +3173,15 @@
         "חבושים",
         "ללא בישול",
         "מסעדה"
-      ]
+      ],
+      "originalName": "Vigilante"
     },
     {
       "id": "arroz-con-leche",
       "title": "ארוס קון לצ'ה",
       "description": "פודינג אורז ארגנטינאי עם קינמון, לימון ווניל — קינוח סבתא נוסטלגי שמוגש קר עם פיזור קינמון, פשוט ומנחם.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1517244683847-7456b63c5969?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?rice+pudding,cinnamon,dessert",
       "prepTime": 5,
       "cookTime": 45,
       "servings": 6,
@@ -3189,14 +3237,15 @@
         "קינמון",
         "נוסטלגי",
         "ילדים"
-      ]
+      ],
+      "originalName": "Arroz con Leche"
     },
     {
       "id": "panqueques-con-dulce-de-leche",
       "title": "פנקקס קון דולסה דה לצ'ה",
       "description": "קרפים דקיקים ממולאים בדולסה דה לצ'ה — חטיף אחר הצהריים שכל ילד ארגנטינאי מכיר. פשוט, מהיר ומשגע.",
       "category": "קינוחים",
-      "image": "https://images.unsplash.com/photo-1519676867240-f03562e64571?w=800&h=600&fit=crop&q=80",
+      "image": "https://source.unsplash.com/800x600/?crepes,dulce+de+leche,pancakes",
       "prepTime": 10,
       "cookTime": 15,
       "servings": 8,
@@ -3252,7 +3301,8 @@
         "ילדים",
         "מריאנדה",
         "מהיר"
-      ]
+      ],
+      "originalName": "Panqueques con Dulce de Leche"
     }
   ]
 }
