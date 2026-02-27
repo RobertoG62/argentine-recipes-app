@@ -71,11 +71,34 @@ body {
     cursor: pointer;
 }
 
+.recipe-card-image-wrapper {
+    aspect-ratio: 16 / 9;
+    background: linear-gradient(135deg, var(--ar-warm-gray) 0%, #e8e4df 100%);
+    position: relative;
+    overflow: hidden;
+}
+
 .recipe-card-image {
     aspect-ratio: 16 / 9;
     object-fit: cover;
     width: 100%;
-    transition: transform 0.6s ease-out;
+    transition: transform 0.6s ease-out, opacity 0.4s ease;
+    opacity: 0;
+}
+
+.recipe-card-image.loaded {
+    opacity: 1;
+}
+
+.img-placeholder {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--ar-gold);
+    opacity: 0.3;
+    font-size: 2.5rem;
 }
 
 .recipe-card:hover .recipe-card-image {

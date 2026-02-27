@@ -54,12 +54,15 @@ const UI = (() => {
         grid.classList.remove('hidden');
         grid.innerHTML = recipes.map(recipe => `
             <article class="recipe-card card-lift" data-id="${recipe.id}">
-                <div class="overflow-hidden">
+                <div class="recipe-card-image-wrapper">
+                    <div class="img-placeholder"><i class="fas fa-utensils"></i></div>
                     <img
                         src="${recipe.image}"
                         alt="${recipe.title}"
                         class="recipe-card-image"
                         loading="lazy"
+                        onload="this.classList.add('loaded')"
+                        onerror="this.style.display='none'"
                     >
                 </div>
                 <div class="p-4">
