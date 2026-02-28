@@ -12,6 +12,15 @@ const UI = (() => {
         'תוספות': 'fa-leaf',
     };
 
+    function buildWhatsAppUrl(recipe) {
+        const ingredientLines = recipe.ingredients
+            .map(ing => `▢ ${ing.quantity} ${ing.unit} ${ing.name}`)
+            .join('\n');
+        const recipeUrl = window.location.href;
+        const message = `*רשימת קניות עבור: ${recipe.title}*\n\n${ingredientLines}\n\nלמתכון המלא: ${recipeUrl}`;
+        return `https://wa.me/?text=${encodeURIComponent(message)}`;
+    }
+
     function getDifficultyBadge(difficulty) {
         const map = {
             'קל': 'badge-easy',
@@ -161,6 +170,12 @@ const UI = (() => {
                             `).join('')}
                         </div>
                     </div>
+
+                    <!-- WhatsApp Share -->
+                    <a href="${buildWhatsAppUrl(recipe)}" target="_blank" rel="noopener noreferrer" class="whatsapp-share-btn">
+                        <i class="fab fa-whatsapp"></i>
+                        שלח רשימת מצרכים ל-WhatsApp
+                    </a>
 
                     <!-- Instructions -->
                     <div class="mb-8">
