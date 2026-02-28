@@ -11,6 +11,7 @@
     try {
         await RecipeData.fetchRecipes();
     } catch (err) {
+        console.error('Failed to load recipes:', err);
         document.getElementById('loading-state').innerHTML = `
             <div class="text-center">
                 <div class="text-5xl mb-4 text-ar-danger"><i class="fas fa-exclamation-triangle"></i></div>
