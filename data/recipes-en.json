@@ -1,0 +1,3308 @@
+{
+  "recipes": [
+    {
+      "id": "asado-argentino",
+      "title": "Asado Argentino",
+      "description": "The traditional Argentine barbecue — a celebration of meat over fire that captures the soul of Argentina. A family feast with beef ribs, chorizo, and fresh chimichurri.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Asado_Argentino.jpg",
+      "prepTime": 30,
+      "cookTime": 180,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Beef ribs (tira de asado)",
+          "quantity": "2",
+          "unit": "kg"
+        },
+        {
+          "name": "Chorizo sausages",
+          "quantity": "6",
+          "unit": "units"
+        },
+        {
+          "name": "Sweetbreads (beef thymus)",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "Coarse salt",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Charcoal or firewood",
+          "quantity": "5",
+          "unit": "kg"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Asado Argentino.",
+        "Begin cooking this traditional Asado Argentino.",
+        "Continue the Argentine method for Asado Argentino.",
+        "Complete preparation of Asado Argentino.",
+        "Finish cooking your Asado Argentino.",
+        "Plate and garnish the Asado Argentino.",
+        "Serve Asado Argentino hot."
+      ],
+      "tags": [
+        "Grill",
+        "Beef",
+        "Family Meal",
+        "Traditional",
+        "Sabbath"
+      ],
+      "originalName": "Asado Argentino"
+    },
+    {
+      "id": "empanadas-carne",
+      "title": "Empanadas de Carne",
+      "description": "Argentine pastries filled with seasoned ground beef, hard-boiled eggs, and olives — Argentina's national pastry, baked to golden perfection.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Empanadas_de_Carne.jpg",
+      "prepTime": 45,
+      "cookTime": 25,
+      "servings": 12,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "Cold butter (cubed)",
+          "quantity": "100",
+          "unit": "g"
+        },
+        {
+          "name": "Lukewarm water",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Ground beef",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "Large onion (diced)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Green onion",
+          "quantity": "3",
+          "unit": "stalks"
+        },
+        {
+          "name": "Sweet paprika (pimentón)",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cumin",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Red pepper flakes",
+          "quantity": "0.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Hard-boiled eggs (sliced)",
+          "quantity": "3",
+          "unit": "units"
+        },
+        {
+          "name": "Green olives (sliced)",
+          "quantity": "12",
+          "unit": "units"
+        },
+        {
+          "name": "Egg (for brushing)",
+          "quantity": "1",
+          "unit": "unit"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Empanadas de Carne.",
+        "Begin cooking this traditional Empanadas de Carne.",
+        "Continue the Argentine method for Empanadas de Carne.",
+        "Complete preparation of Empanadas de Carne.",
+        "Finish cooking your Empanadas de Carne.",
+        "Plate and garnish the Empanadas de Carne.",
+        "Serve Empanadas de Carne hot.",
+        "Step 8 for Empanadas de Carne.",
+        "Step 9 for Empanadas de Carne."
+      ],
+      "tags": [
+        "Pastries",
+        "Ground Beef",
+        "Lunch",
+        "Party",
+        "Snack"
+      ],
+      "originalName": "Empanadas de Carne"
+    },
+    {
+      "id": "chimichurri",
+      "title": "Chimichurri",
+      "description": "Argentina's flagship sauce — a vibrant blend of parsley, garlic, vinegar, and olive oil that accompanies every self-respecting asado.",
+      "category": "Sides",
+      "image": "Argentine_Recipes_Images/Chimichurri.jpg",
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Fresh parsley (leaves only)",
+          "quantity": "1",
+          "unit": "large bunch"
+        },
+        {
+          "name": "Garlic (finely chopped)",
+          "quantity": "6",
+          "unit": "cloves"
+        },
+        {
+          "name": "Extra virgin olive oil",
+          "quantity": "150",
+          "unit": "ml"
+        },
+        {
+          "name": "Red wine vinegar",
+          "quantity": "50",
+          "unit": "ml"
+        },
+        {
+          "name": "Dried oregano",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Red pepper flakes",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Sea salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Coarsely ground black pepper",
+          "quantity": "0.5",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Chimichurri.",
+        "Begin cooking this traditional Chimichurri.",
+        "Continue the Argentine method for Chimichurri.",
+        "Complete preparation of Chimichurri.",
+        "Finish cooking your Chimichurri."
+      ],
+      "tags": [
+        "Sauce",
+        "Vegan",
+        "No Cooking",
+        "Asado",
+        "Basic"
+      ],
+      "originalName": "Chimichurri"
+    },
+    {
+      "id": "alfajores",
+      "title": "Alfajores de Maicena",
+      "description": "Delicate, crumbly sandwich cookies filled with rich dulce de leche — Argentina's most beloved sweet, coated in shredded coconut.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Alfajores_de_Maicena.jpg",
+      "prepTime": 30,
+      "cookTime": 12,
+      "servings": 20,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Cornstarch (maizena)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "All-purpose flour",
+          "quantity": "100",
+          "unit": "g"
+        },
+        {
+          "name": "Baking powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Softened butter",
+          "quantity": "125",
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "80",
+          "unit": "g"
+        },
+        {
+          "name": "Egg yolks",
+          "quantity": "3",
+          "unit": "units"
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Grated lemon zest",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Dulce de leche",
+          "quantity": "300",
+          "unit": "g"
+        },
+        {
+          "name": "Shredded coconut",
+          "quantity": "100",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Alfajores de Maicena.",
+        "Begin cooking this traditional Alfajores de Maicena.",
+        "Continue the Argentine method for Alfajores de Maicena.",
+        "Complete preparation of Alfajores de Maicena.",
+        "Finish cooking your Alfajores de Maicena.",
+        "Plate and garnish the Alfajores de Maicena.",
+        "Serve Alfajores de Maicena hot.",
+        "Step 8 for Alfajores de Maicena."
+      ],
+      "tags": [
+        "Dessert",
+        "Cookies",
+        "Dulce de Leche",
+        "Sweet",
+        "Classic"
+      ],
+      "originalName": "Alfajores de Maicena"
+    },
+    {
+      "id": "dulce-de-leche",
+      "title": "Dulce de Leche",
+      "description": "The famous Argentine milk jam — a deep, rich milk caramel that practically makes itself. The base for countless desserts.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Dulce_de_Leche.jpg",
+      "prepTime": 5,
+      "cookTime": 120,
+      "servings": 10,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Whole milk",
+          "quantity": "1",
+          "unit": "L"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "250",
+          "unit": "g"
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Baking soda",
+          "quantity": "0.25",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Dulce de Leche.",
+        "Begin cooking this traditional Dulce de Leche.",
+        "Continue the Argentine method for Dulce de Leche.",
+        "Complete preparation of Dulce de Leche.",
+        "Finish cooking your Dulce de Leche.",
+        "Plate and garnish the Dulce de Leche."
+      ],
+      "tags": [
+        "Dessert",
+        "Spread",
+        "Caramel",
+        "Basic",
+        "No Oven"
+      ],
+      "originalName": "Dulce de Leche"
+    },
+    {
+      "id": "milanesa",
+      "title": "Milanesa de Carne",
+      "description": "The Argentine beef schnitzel — thin slices of beef coated in seasoned breadcrumbs and fried to crispy golden perfection.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Milanesa_de_Carne.jpg",
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Thin beef steak (nalga or peceto)",
+          "quantity": "4",
+          "unit": "slices"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "3",
+          "unit": "units"
+        },
+        {
+          "name": "Breadcrumbs",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Crushed garlic",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "name": "Chopped parsley",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt and black pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "name": "Oil for deep frying",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon (for serving)",
+          "quantity": "2",
+          "unit": "units"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Milanesa de Carne.",
+        "Begin cooking this traditional Milanesa de Carne.",
+        "Continue the Argentine method for Milanesa de Carne.",
+        "Complete preparation of Milanesa de Carne.",
+        "Finish cooking your Milanesa de Carne.",
+        "Plate and garnish the Milanesa de Carne."
+      ],
+      "tags": [
+        "Schnitzel",
+        "Beef",
+        "Fried",
+        "Dinner",
+        "Kids"
+      ],
+      "originalName": "Milanesa de Carne"
+    },
+    {
+      "id": "choripan",
+      "title": "Choripán",
+      "description": "The ultimate Argentine street sandwich — juicy chorizo sausage in crusty bread, drenched in chimichurri. Simple and genius.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Choripan.jpg",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Argentine chorizo sausages",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "Baguette or French bread",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "Prepared chimichurri",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "Salsa criolla (optional)",
+          "quantity": "50",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Choripán.",
+        "Begin cooking this traditional Choripán.",
+        "Continue the Argentine method for Choripán.",
+        "Complete preparation of Choripán.",
+        "Finish cooking your Choripán."
+      ],
+      "tags": [
+        "Sandwich",
+        "Street Food",
+        "Grill",
+        "Quick",
+        "Football"
+      ],
+      "originalName": "Choripán"
+    },
+    {
+      "id": "provoleta",
+      "title": "Provoleta",
+      "description": "Grilled provolone cheese until melted inside with a crispy crust outside — the opening dish of every Argentine asado.",
+      "category": "Sides",
+      "image": "Argentine_Recipes_Images/Provoleta.jpg",
+      "prepTime": 5,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Provolone cheese (thick slice)",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Dried oregano",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Red pepper flakes",
+          "quantity": "0.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cherry tomatoes (halved)",
+          "quantity": "6",
+          "unit": "units"
+        },
+        {
+          "name": "Bread for dipping",
+          "quantity": "",
+          "unit": "for serving"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Provoleta.",
+        "Begin cooking this traditional Provoleta.",
+        "Continue the Argentine method for Provoleta.",
+        "Complete preparation of Provoleta.",
+        "Finish cooking your Provoleta."
+      ],
+      "tags": [
+        "Cheese",
+        "Grill",
+        "Appetizer",
+        "Vegetarian",
+        "Asado"
+      ],
+      "originalName": "Provoleta"
+    },
+    {
+      "id": "mate",
+      "title": "Mate",
+      "description": "Argentina's national beverage — a traditional herbal infusion sipped from a dedicated gourd through a metal straw. More than just a drink, it's a social ritual.",
+      "category": "Beverages",
+      "image": "Argentine_Recipes_Images/Mate.jpg",
+      "prepTime": 5,
+      "cookTime": 5,
+      "servings": 1,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Yerba mate (dried leaves)",
+          "quantity": "30",
+          "unit": "g"
+        },
+        {
+          "name": "Hot water (not boiling!)",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "Mate gourd (calabaza)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Metal straw (bombilla)",
+          "quantity": "1",
+          "unit": "unit"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Mate.",
+        "Begin cooking this traditional Mate.",
+        "Continue the Argentine method for Mate.",
+        "Complete preparation of Mate.",
+        "Finish cooking your Mate.",
+        "Plate and garnish the Mate."
+      ],
+      "tags": [
+        "Beverage",
+        "Traditional",
+        "Social",
+        "Yerba",
+        "Argentina"
+      ],
+      "originalName": "Mate"
+    },
+    {
+      "id": "locro",
+      "title": "Locro",
+      "description": "Argentina's national stew — a rich and hearty winter soup of white corn, pumpkin, beans, and meat, slow-cooked to perfection.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Locro.jpg",
+      "prepTime": 30,
+      "cookTime": 240,
+      "servings": 10,
+      "difficulty": "Challenging",
+      "ingredients": [
+        {
+          "name": "Dried white corn (maíz blanco)",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "White beans (soaked overnight)",
+          "quantity": "300",
+          "unit": "g"
+        },
+        {
+          "name": "Beef (chuck/neck)",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "Chorizo sausage",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Beef marrow bones",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Pumpkin (cubed)",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "Large onion (diced)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "4",
+          "unit": "cloves"
+        },
+        {
+          "name": "Smoked paprika",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cumin",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Bay leaf",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "name": "Green onion (for serving)",
+          "quantity": "4",
+          "unit": "stalks"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Locro.",
+        "Begin cooking this traditional Locro.",
+        "Continue the Argentine method for Locro.",
+        "Complete preparation of Locro.",
+        "Finish cooking your Locro.",
+        "Plate and garnish the Locro.",
+        "Serve Locro hot.",
+        "Step 8 for Locro."
+      ],
+      "tags": [
+        "Stew",
+        "Winter",
+        "Soup",
+        "Independence Day",
+        "Family Meal"
+      ],
+      "originalName": "Locro"
+    },
+    {
+      "id": "salsa-criolla",
+      "title": "Salsa Criolla",
+      "description": "The fresh salsa that accompanies every Argentine asado — a colorful mix of tomatoes, onions, peppers, oregano, and vinegar that adds freshness to any meat dish.",
+      "category": "Sides",
+      "image": "Argentine_Recipes_Images/Salsa_Criolla.jpg",
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Ripe tomatoes",
+          "quantity": "3",
+          "unit": "units"
+        },
+        {
+          "name": "Large red onion",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Green bell pepper",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Red bell pepper",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Red wine vinegar",
+          "quantity": "60",
+          "unit": "ml"
+        },
+        {
+          "name": "Extra virgin olive oil",
+          "quantity": "80",
+          "unit": "ml"
+        },
+        {
+          "name": "Dried oregano",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt and black pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Salsa Criolla.",
+        "Begin cooking this traditional Salsa Criolla.",
+        "Continue the Argentine method for Salsa Criolla.",
+        "Complete preparation of Salsa Criolla.",
+        "Finish cooking your Salsa Criolla.",
+        "Plate and garnish the Salsa Criolla."
+      ],
+      "tags": [
+        "Salsa",
+        "Fresh",
+        "Vegan",
+        "Asado",
+        "No Cooking",
+        "Side"
+      ],
+      "originalName": "Salsa Criolla"
+    },
+    {
+      "id": "ensalada-rusa",
+      "title": "Ensalada Rusa",
+      "description": "The classic Argentine potato salad — potatoes, peas, carrots, and hard-boiled eggs in a creamy mayonnaise coating. A must-have at every family celebration.",
+      "category": "Sides",
+      "image": "Argentine_Recipes_Images/Ensalada_Rusa.jpg",
+      "prepTime": 20,
+      "cookTime": 25,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Medium potatoes",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "Large carrot",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Frozen peas",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Hard-boiled eggs",
+          "quantity": "3",
+          "unit": "units"
+        },
+        {
+          "name": "Mayonnaise",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Coarsely ground black pepper",
+          "quantity": "0.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Lemon juice",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Ensalada Rusa.",
+        "Begin cooking this traditional Ensalada Rusa.",
+        "Continue the Argentine method for Ensalada Rusa.",
+        "Complete preparation of Ensalada Rusa.",
+        "Finish cooking your Ensalada Rusa.",
+        "Plate and garnish the Ensalada Rusa."
+      ],
+      "tags": [
+        "Salad",
+        "Side",
+        "Mayonnaise",
+        "Celebrations",
+        "Family Meal"
+      ],
+      "originalName": "Ensalada Rusa"
+    },
+    {
+      "id": "papas-fritas-a-la-provenzal",
+      "title": "Papas Fritas a la Provenzal",
+      "description": "Perfect Argentine chips tossed with chopped garlic and fresh parsley — the side every Argentine orders with their milanesa.",
+      "category": "Sides",
+      "image": "Argentine_Recipes_Images/Papas_Fritas_a_la_Provenzal.jpg",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Large potatoes",
+          "quantity": "1",
+          "unit": "kg"
+        },
+        {
+          "name": "Sunflower oil for frying",
+          "quantity": "1",
+          "unit": "L"
+        },
+        {
+          "name": "Garlic (very finely chopped)",
+          "quantity": "6",
+          "unit": "cloves"
+        },
+        {
+          "name": "? ? (? ?)",
+          "quantity": "1",
+          "unit": "bunch"
+        },
+        {
+          "name": "Coarse salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "2",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Papas Fritas a la Provenzal.",
+        "Begin cooking this traditional Papas Fritas a la Provenzal.",
+        "Continue the Argentine method for Papas Fritas a la Provenzal.",
+        "Complete preparation of Papas Fritas a la Provenzal.",
+        "Finish cooking your Papas Fritas a la Provenzal.",
+        "Plate and garnish the Papas Fritas a la Provenzal."
+      ],
+      "tags": [
+        "Chips",
+        "Fried",
+        "Garlic",
+        "Side",
+        "Street Food"
+      ],
+      "originalName": "Papas Fritas a la Provenzal"
+    },
+    {
+      "id": "submarino",
+      "title": "Submarino",
+      "description": "The unique Argentine hot chocolate — hot milk served with a piece of chocolate that you dunk inside until it slowly melts. A sweet, warming experience.",
+      "category": "Beverages",
+      "image": "Argentine_Recipes_Images/Submarino.jpg",
+      "prepTime": 2,
+      "cookTime": 5,
+      "servings": 1,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Whole milk",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "Milk chocolate (whole piece)",
+          "quantity": "40",
+          "unit": "g"
+        },
+        {
+          "name": "Sugar (optional)",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Cinnamon stick (optional)",
+          "quantity": "1",
+          "unit": "unit"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Submarino.",
+        "Begin cooking this traditional Submarino.",
+        "Continue the Argentine method for Submarino.",
+        "Complete preparation of Submarino.",
+        "Finish cooking your Submarino."
+      ],
+      "tags": [
+        "Hot Beverage",
+        "Chocolate",
+        "Milk",
+        "Merienda",
+        "Kids",
+        "Winter"
+      ],
+      "originalName": "Submarino"
+    },
+    {
+      "id": "licuado-de-banana",
+      "title": "Licuado de Banana",
+      "description": "The classic Argentine banana shake — simple, creamy, and refreshing. The breakfast and merienda drink every Argentine grew up with.",
+      "category": "Beverages",
+      "image": "Argentine_Recipes_Images/Licuado_de_Banana.jpg",
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 2,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Ripe bananas",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Cold whole milk",
+          "quantity": "400",
+          "unit": "ml"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": "0.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Ice (optional)",
+          "quantity": "4",
+          "unit": "cubes"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Licuado de Banana.",
+        "Begin cooking this traditional Licuado de Banana.",
+        "Continue the Argentine method for Licuado de Banana.",
+        "Complete preparation of Licuado de Banana.",
+        "Finish cooking your Licuado de Banana."
+      ],
+      "tags": [
+        "Shake",
+        "Banana",
+        "Breakfast",
+        "Merienda",
+        "Quick",
+        "Kids"
+      ],
+      "originalName": "Licuado de Banana"
+    },
+    {
+      "id": "fernet-con-coca",
+      "title": "Fernet con Coca",
+      "description": "Argentina's unofficial national cocktail — bitter and powerful Fernet Branca mellowed with cold Coca-Cola, served over ice.",
+      "category": "Beverages",
+      "image": "Argentine_Recipes_Images/Fernet_con_Coca.jpg",
+      "prepTime": 2,
+      "cookTime": 0,
+      "servings": 1,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Fernet Branca",
+          "quantity": "60",
+          "unit": "ml"
+        },
+        {
+          "name": "Cold Coca-Cola",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "Ice cubes",
+          "quantity": "6",
+          "unit": "units"
+        },
+        {
+          "name": "Lemon wedge (for garnish)",
+          "quantity": "1",
+          "unit": "unit"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Fernet con Coca.",
+        "Begin cooking this traditional Fernet con Coca.",
+        "Continue the Argentine method for Fernet con Coca.",
+        "Complete preparation of Fernet con Coca.",
+        "Finish cooking your Fernet con Coca."
+      ],
+      "tags": [
+        "Cocktail",
+        "Alcohol",
+        "Fernet",
+        "Party",
+        "Social",
+        "Córdoba"
+      ],
+      "originalName": "Fernet con Coca"
+    },
+    {
+      "id": "humita-en-chala",
+      "title": "Humita en Chala",
+      "description": "A sweet-savory Argentine tamale of fresh corn steamed in corn husks — a traditional comfort dish from northern Argentina that highlights corn season sweetness.",
+      "category": "Sides",
+      "image": "Argentine_Recipes_Images/Humita_en_Chala.jpg",
+      "prepTime": 40,
+      "cookTime": 45,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Fresh corn with husks (chala)",
+          "quantity": "8",
+          "unit": "ears"
+        },
+        {
+          "name": "Large onion (finely chopped)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Sweet paprika (pimentón)",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter",
+          "quantity": "30",
+          "unit": "g"
+        },
+        {
+          "name": "Creamy cheese (queso cremoso)",
+          "quantity": "100",
+          "unit": "g"
+        },
+        {
+          "name": "Milk",
+          "quantity": "50",
+          "unit": "ml"
+        },
+        {
+          "name": "Salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Humita en Chala.",
+        "Begin cooking this traditional Humita en Chala.",
+        "Continue the Argentine method for Humita en Chala.",
+        "Complete preparation of Humita en Chala.",
+        "Finish cooking your Humita en Chala.",
+        "Plate and garnish the Humita en Chala.",
+        "Serve Humita en Chala hot.",
+        "Step 8 for Humita en Chala."
+      ],
+      "tags": [
+        "Corn",
+        "Steamed",
+        "Northern Argentina",
+        "Vegetarian",
+        "Traditional"
+      ],
+      "originalName": "Humita en Chala"
+    },
+    {
+      "id": "carbonada",
+      "title": "Carbonada",
+      "description": "A unique sweet-savory beef stew with pumpkin, corn, peaches, and potatoes — a surprising Argentine combination sometimes served in a hollowed pumpkin.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Carbonada.jpg",
+      "prepTime": 25,
+      "cookTime": 90,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Beef (chuck), cubed",
+          "quantity": "600",
+          "unit": "g"
+        },
+        {
+          "name": "Butternut squash (cubed)",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Potatoes (diced)",
+          "quantity": "300",
+          "unit": "g"
+        },
+        {
+          "name": "Corn (ear cut into slices)",
+          "quantity": "2",
+          "unit": "ears"
+        },
+        {
+          "name": "Peaches (fresh or canned)",
+          "quantity": "3",
+          "unit": "units"
+        },
+        {
+          "name": "Large onion (diced)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Beef broth",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "Sweet paprika",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Carbonada.",
+        "Begin cooking this traditional Carbonada.",
+        "Continue the Argentine method for Carbonada.",
+        "Complete preparation of Carbonada.",
+        "Finish cooking your Carbonada.",
+        "Plate and garnish the Carbonada.",
+        "Serve Carbonada hot."
+      ],
+      "tags": [
+        "Stew",
+        "Sweet-Savory",
+        "Pumpkin",
+        "Winter",
+        "Family Meal"
+      ],
+      "originalName": "Carbonada"
+    },
+    {
+      "id": "guiso-de-lentejas",
+      "title": "Guiso de Lentejas",
+      "description": "Rich Argentine lentil stew with chorizo, potatoes, and vegetables — the ultimate comfort dish for cold winter days that warms body and soul.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Guiso_de_Lentejas.jpg",
+      "prepTime": 15,
+      "cookTime": 60,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Brown lentils",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Chorizo sausages (sliced)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Potatoes (diced)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Carrot (diced)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Large onion (diced)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Crushed garlic",
+          "quantity": "3",
+          "unit": "cloves"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Smoked paprika",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Cumin",
+          "quantity": "0.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Bay leaf",
+          "quantity": "1",
+          "unit": "unit"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Guiso de Lentejas.",
+        "Begin cooking this traditional Guiso de Lentejas.",
+        "Continue the Argentine method for Guiso de Lentejas.",
+        "Complete preparation of Guiso de Lentejas.",
+        "Finish cooking your Guiso de Lentejas.",
+        "Plate and garnish the Guiso de Lentejas.",
+        "Serve Guiso de Lentejas hot."
+      ],
+      "tags": [
+        "Lentils",
+        "Stew",
+        "Winter",
+        "Chorizo",
+        "Good Luck"
+      ],
+      "originalName": "Guiso de Lentejas"
+    },
+    {
+      "id": "cazuela-de-mondongo",
+      "title": "Cazuela de Mondongo",
+      "description": "Traditional Argentine beef tripe stew slow-cooked with vegetables and white beans — a hearty dish full of flavor that requires patience but rewards generously.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Cazuela_de_Mondongo.jpg",
+      "prepTime": 30,
+      "cookTime": 180,
+      "servings": 8,
+      "difficulty": "Challenging",
+      "ingredients": [
+        {
+          "name": "Beef tripe (mondongo), cleaned",
+          "quantity": "1",
+          "unit": "kg"
+        },
+        {
+          "name": "White beans (soaked overnight)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Potatoes (diced)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Carrot (diced)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Large onion (diced)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Crushed garlic",
+          "quantity": "4",
+          "unit": "cloves"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Sweet paprika",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cumin",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Dried oregano",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Cazuela de Mondongo.",
+        "Begin cooking this traditional Cazuela de Mondongo.",
+        "Continue the Argentine method for Cazuela de Mondongo.",
+        "Complete preparation of Cazuela de Mondongo.",
+        "Finish cooking your Cazuela de Mondongo.",
+        "Plate and garnish the Cazuela de Mondongo.",
+        "Serve Cazuela de Mondongo hot."
+      ],
+      "tags": [
+        "Tripe",
+        "Stew",
+        "Slow Cooking",
+        "Beans",
+        "Sabbath"
+      ],
+      "originalName": "Cazuela de Mondongo"
+    },
+    {
+      "id": "puchero-criollo",
+      "title": "Puchero Criollo",
+      "description": "Argentina's traditional one-pot meal — beef, corn, pumpkin, and root vegetables simmered together to create a deep broth and melt-in-your-mouth meat.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Puchero_Criollo.jpg",
+      "prepTime": 20,
+      "cookTime": 150,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Beef (brisket or neck)",
+          "quantity": "800",
+          "unit": "g"
+        },
+        {
+          "name": "Beef marrow bones",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Corn (cut into thick slices)",
+          "quantity": "3",
+          "unit": "ears"
+        },
+        {
+          "name": "Butternut squash (large chunks)",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "Whole potatoes (medium)",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "Sweet potato (chunks)",
+          "quantity": "1",
+          "unit": "large unit"
+        },
+        {
+          "name": "Whole carrot",
+          "quantity": "3",
+          "unit": "units"
+        },
+        {
+          "name": "White cabbage (quarters)",
+          "quantity": "0.25",
+          "unit": "head"
+        },
+        {
+          "name": "Coarse salt",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Puchero Criollo.",
+        "Begin cooking this traditional Puchero Criollo.",
+        "Continue the Argentine method for Puchero Criollo.",
+        "Complete preparation of Puchero Criollo.",
+        "Finish cooking your Puchero Criollo.",
+        "Plate and garnish the Puchero Criollo.",
+        "Serve Puchero Criollo hot."
+      ],
+      "tags": [
+        "Stew",
+        "Complete Meal",
+        "Traditional",
+        "Root Vegetables",
+        "Winter"
+      ],
+      "originalName": "Puchero Criollo"
+    },
+    {
+      "id": "sopa-de-zapallo",
+      "title": "Sopa de Zapallo",
+      "description": "Creamy pumpkin soup Argentine-style with a touch of nutmeg — a warming and simple dish that highlights the natural sweetness of pumpkin.",
+      "category": "Sides",
+      "image": "Argentine_Recipes_Images/Sopa_de_Zapallo.jpg",
+      "prepTime": 15,
+      "cookTime": 35,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Butternut squash (cubed)",
+          "quantity": "1",
+          "unit": "kg"
+        },
+        {
+          "name": "Medium onion (diced)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "name": "Vegetable broth",
+          "quantity": "750",
+          "unit": "ml"
+        },
+        {
+          "name": "Cooking cream",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "Butter",
+          "quantity": "20",
+          "unit": "g"
+        },
+        {
+          "name": "Fresh nutmeg (grated)",
+          "quantity": "0.25",
+          "unit": "tsp"
+        },
+        {
+          "name": "? ? ?",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Sopa de Zapallo.",
+        "Begin cooking this traditional Sopa de Zapallo.",
+        "Continue the Argentine method for Sopa de Zapallo.",
+        "Complete preparation of Sopa de Zapallo.",
+        "Finish cooking your Sopa de Zapallo.",
+        "Plate and garnish the Sopa de Zapallo."
+      ],
+      "tags": [
+        "Soup",
+        "Pumpkin",
+        "Creamy",
+        "Winter",
+        "Vegetarian"
+      ],
+      "originalName": "Sopa de Zapallo"
+    },
+    {
+      "id": "empanadas-de-humita",
+      "title": "Empanadas de Humita",
+      "description": "Empanadas filled with creamy, sweet corn — a winning combination of crispy dough and juicy filling that showcases the best of Argentine corn.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Empanadas_de_Humita.jpg",
+      "prepTime": 40,
+      "cookTime": 25,
+      "servings": 12,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "? ? ? (? ?)",
+          "quantity": "12",
+          "unit": "discs"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "6",
+          "unit": "ears"
+        },
+        {
+          "name": "Medium onion (finely chopped)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Butter",
+          "quantity": "30",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "80",
+          "unit": "g"
+        },
+        {
+          "name": "Sweet paprika (pimentón)",
+          "quantity": "0.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": "0.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Egg (for brushing)",
+          "quantity": "1",
+          "unit": "unit"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Empanadas de Humita.",
+        "Begin cooking this traditional Empanadas de Humita.",
+        "Continue the Argentine method for Empanadas de Humita.",
+        "Complete preparation of Empanadas de Humita.",
+        "Finish cooking your Empanadas de Humita.",
+        "Plate and garnish the Empanadas de Humita.",
+        "Serve Empanadas de Humita hot."
+      ],
+      "tags": [
+        "Pastries",
+        "Corn",
+        "Vegetarian",
+        "Empanadas",
+        "Light Meal"
+      ],
+      "originalName": "Empanadas de Humita"
+    },
+    {
+      "id": "tamales-tucumanos",
+      "title": "Tamales Tucumanos",
+      "description": "Tucumán-style tamales wrapped in corn husks with a savory meat filling — a traditional northern Argentine dish for special occasions.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Tamales_Tucumanos.jpg",
+      "prepTime": 60,
+      "cookTime": 90,
+      "servings": 10,
+      "difficulty": "Challenging",
+      "ingredients": [
+        {
+          "name": "? ? ? ?",
+          "quantity": "10",
+          "unit": "ears"
+        },
+        {
+          "name": "? ? (? ?), ? ?",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Medium onion (finely chopped)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Crushed garlic",
+          "quantity": "3",
+          "unit": "cloves"
+        },
+        {
+          "name": "Cumin",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Sweet paprika (pimentón)",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "? ? ? (? ?)",
+          "quantity": "0.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "? ? ? ?",
+          "quantity": "50",
+          "unit": "g"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Tamales Tucumanos.",
+        "Begin cooking this traditional Tamales Tucumanos.",
+        "Continue the Argentine method for Tamales Tucumanos.",
+        "Complete preparation of Tamales Tucumanos.",
+        "Finish cooking your Tamales Tucumanos.",
+        "Plate and garnish the Tamales Tucumanos.",
+        "Serve Tamales Tucumanos hot.",
+        "Step 8 for Tamales Tucumanos."
+      ],
+      "tags": [
+        "Tamales",
+        "Tucumán",
+        "Corn",
+        "Beef",
+        "Traditional"
+      ],
+      "originalName": "Tamales Tucumanos"
+    },
+    {
+      "id": "milanesa-napolitana",
+      "title": "Milanesa a la Napolitana",
+      "description": "The deluxe Argentine schnitzel — breaded beef topped with ham, tomato sauce, and melted mozzarella. A hearty classic.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Milanesa_a_la_Napolitana.jpg",
+      "prepTime": 25,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "? ? ? (?)",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "? ? ?",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "8",
+          "unit": "slices"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Dried oregano",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Oil for frying",
+          "quantity": "300",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Milanesa a la Napolitana.",
+        "Begin cooking this traditional Milanesa a la Napolitana.",
+        "Continue the Argentine method for Milanesa a la Napolitana.",
+        "Complete preparation of Milanesa a la Napolitana.",
+        "Finish cooking your Milanesa a la Napolitana."
+      ],
+      "tags": [
+        "Schnitzel",
+        "Cheese",
+        "Dinner",
+        "Beef",
+        "Classic"
+      ],
+      "originalName": "Milanesa a la Napolitana"
+    },
+    {
+      "id": "revuelto-gramajo",
+      "title": "Revuelto Gramajo",
+      "description": "A classic Argentine scrambled egg dish with ham, potatoes, and peas — hearty comfort food perfect for any time of day.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Revuelto_Gramajo.jpg",
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "? ? (?'? ?)",
+          "quantity": "3",
+          "unit": "units"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "6",
+          "unit": "units"
+        },
+        {
+          "name": "? (? ? ?)",
+          "quantity": "100",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (?'?)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Oil for frying",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "Salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Revuelto Gramajo.",
+        "Begin cooking this traditional Revuelto Gramajo.",
+        "Continue the Argentine method for Revuelto Gramajo.",
+        "Complete preparation of Revuelto Gramajo.",
+        "Finish cooking your Revuelto Gramajo.",
+        "Plate and garnish the Revuelto Gramajo."
+      ],
+      "tags": [
+        "Eggs",
+        "Breakfast",
+        "Bar",
+        "Quick",
+        "Buenos Aires"
+      ],
+      "originalName": "Revuelto Gramajo"
+    },
+    {
+      "id": "suprema-de-pollo",
+      "title": "Suprema de Pollo",
+      "description": "Argentine chicken schnitzel — breaded and fried chicken breast, golden and crispy. A lighter alternative to beef milanesa.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Suprema_de_Pollo.jpg",
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Breadcrumbs",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Flour",
+          "quantity": "100",
+          "unit": "g"
+        },
+        {
+          "name": "Crushed garlic",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "name": "Chopped parsley",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Oil for frying",
+          "quantity": "400",
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1",
+          "unit": "unit"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Suprema de Pollo.",
+        "Begin cooking this traditional Suprema de Pollo.",
+        "Continue the Argentine method for Suprema de Pollo.",
+        "Complete preparation of Suprema de Pollo.",
+        "Finish cooking your Suprema de Pollo."
+      ],
+      "tags": [
+        "Chicken",
+        "Schnitzel",
+        "Lunch",
+        "Kids",
+        "Quick"
+      ],
+      "originalName": "Suprema de Pollo"
+    },
+    {
+      "id": "sorrentinos",
+      "title": "Sorrentinos de Jamón y Queso",
+      "description": "Argentine stuffed pasta similar to ravioli, filled with ham and cheese — an Italian-Argentine classic served with tomato sauce.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Sorrentinos_de_Jamon_y_Queso.jpg",
+      "prepTime": 60,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Challenging",
+      "ingredients": [
+        {
+          "name": "? (?)",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": "300",
+          "unit": "ml"
+        },
+        {
+          "name": "Cooking cream",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "? ?",
+          "quantity": "50",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Sorrentinos de Jamón y Queso.",
+        "Begin cooking this traditional Sorrentinos de Jamón y Queso.",
+        "Continue the Argentine method for Sorrentinos de Jamón y Queso.",
+        "Complete preparation of Sorrentinos de Jamón y Queso.",
+        "Finish cooking your Sorrentinos de Jamón y Queso.",
+        "Plate and garnish the Sorrentinos de Jamón y Queso."
+      ],
+      "tags": [
+        "Pasta",
+        "Italian-Argentine",
+        "Cheese",
+        "Dinner",
+        "Festive"
+      ],
+      "originalName": "Sorrentinos de Jamón y Queso"
+    },
+    {
+      "id": "tallarines-caseros",
+      "title": "Tallarines con Tuco",
+      "description": "Homemade Argentine pasta with tuco (tomato sauce) — simple, comforting, and deeply satisfying.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Tallarines_con_Tuco.jpg",
+      "prepTime": 45,
+      "cookTime": 90,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "? (?)",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "? ? (?, ? ?)",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Large onion (diced)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Carrot (diced)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "3",
+          "unit": "cloves"
+        },
+        {
+          "name": "Bay leaf",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "? ?",
+          "quantity": "80",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Tallarines con Tuco.",
+        "Begin cooking this traditional Tallarines con Tuco.",
+        "Continue the Argentine method for Tallarines con Tuco.",
+        "Complete preparation of Tallarines con Tuco.",
+        "Finish cooking your Tallarines con Tuco.",
+        "Plate and garnish the Tallarines con Tuco."
+      ],
+      "tags": [
+        "Pasta",
+        "Meat Sauce",
+        "Italian-Argentine",
+        "Sunday",
+        "Homemade"
+      ],
+      "originalName": "Tallarines con Tuco"
+    },
+    {
+      "id": "noquis-del-29",
+      "title": "Ñoquis del 29",
+      "description": "Potato gnocchi traditionally eaten on the 29th of every month in Argentina — a custom believed to bring prosperity.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Noquis_del_29.jpg",
+      "prepTime": 30,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "? ? (?)",
+          "quantity": "1",
+          "unit": "kg"
+        },
+        {
+          "name": "Flour",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Egg",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "? ?",
+          "quantity": "pinch",
+          "unit": ""
+        },
+        {
+          "name": "? ? ? ? ?",
+          "quantity": "300",
+          "unit": "ml"
+        },
+        {
+          "name": "? ?",
+          "quantity": "60",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Ñoquis del 29.",
+        "Begin cooking this traditional Ñoquis del 29.",
+        "Continue the Argentine method for Ñoquis del 29.",
+        "Complete preparation of Ñoquis del 29.",
+        "Finish cooking your Ñoquis del 29.",
+        "Plate and garnish the Ñoquis del 29."
+      ],
+      "tags": [
+        "Pasta",
+        "Potatoes",
+        "Tradition",
+        "Good Luck",
+        "29th of Month"
+      ],
+      "originalName": "Ñoquis del 29"
+    },
+    {
+      "id": "matambre-arrollado",
+      "title": "Matambre Arrollado",
+      "description": "Rolled and stuffed flank steak, a showcase dish for Argentine asados — impressive to look at and delicious to eat.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Matambre_Arrollado.jpg",
+      "prepTime": 40,
+      "cookTime": 90,
+      "servings": 10,
+      "difficulty": "Challenging",
+      "ingredients": [
+        {
+          "name": "? (? ? ?), ? ?",
+          "quantity": "1.5",
+          "unit": "kg"
+        },
+        {
+          "name": "Hard-boiled eggs",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "? ? ? (?)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "100",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Crushed garlic",
+          "quantity": "4",
+          "unit": "cloves"
+        },
+        {
+          "name": "Chopped parsley",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "name": "? ? ?",
+          "quantity": "50",
+          "unit": "ml"
+        },
+        {
+          "name": "Salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Matambre Arrollado.",
+        "Begin cooking this traditional Matambre Arrollado.",
+        "Continue the Argentine method for Matambre Arrollado.",
+        "Complete preparation of Matambre Arrollado.",
+        "Finish cooking your Matambre Arrollado.",
+        "Plate and garnish the Matambre Arrollado.",
+        "Serve Matambre Arrollado hot."
+      ],
+      "tags": [
+        "Appetizer",
+        "Festive",
+        "Beef",
+        "[ingredient] [ingredient]",
+        "Matambre"
+      ],
+      "originalName": "Matambre Arrollado"
+    },
+    {
+      "id": "vacio-a-la-parrilla",
+      "title": "Vacío a la Parrilla",
+      "description": "Grilled beef flank — one of the most prized cuts in Argentine asado, juicy and full of flavor.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Vacio_a_la_Parrilla.jpg",
+      "prepTime": 10,
+      "cookTime": 120,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "? (? ? ?)",
+          "quantity": "1.5",
+          "unit": "kg"
+        },
+        {
+          "name": "Coarse salt",
+          "quantity": "2",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "?'?'? (?)",
+          "quantity": "100",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Vacío a la Parrilla.",
+        "Begin cooking this traditional Vacío a la Parrilla.",
+        "Continue the Argentine method for Vacío a la Parrilla.",
+        "Complete preparation of Vacío a la Parrilla.",
+        "Finish cooking your Vacío a la Parrilla.",
+        "Plate and garnish the Vacío a la Parrilla."
+      ],
+      "tags": [
+        "Grill",
+        "Beef",
+        "Vacío",
+        "Asado",
+        "Premium"
+      ],
+      "originalName": "Vacío a la Parrilla"
+    },
+    {
+      "id": "entrana-a-la-parrilla",
+      "title": "Entraña a la Parrilla",
+      "description": "Grilled skirt steak — tender, flavorful, and a favorite at Argentine barbecues.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Entrana_a_la_Parrilla.jpg",
+      "prepTime": 10,
+      "cookTime": 10,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "? (? ?)",
+          "quantity": "800",
+          "unit": "g"
+        },
+        {
+          "name": "Coarse salt",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Lemon",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "?'?'? (?)",
+          "quantity": "80",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Entraña a la Parrilla.",
+        "Begin cooking this traditional Entraña a la Parrilla.",
+        "Continue the Argentine method for Entraña a la Parrilla.",
+        "Complete preparation of Entraña a la Parrilla.",
+        "Finish cooking your Entraña a la Parrilla."
+      ],
+      "tags": [
+        "Grill",
+        "Steak",
+        "Entraña",
+        "Quick",
+        "Asado"
+      ],
+      "originalName": "Entraña a la Parrilla"
+    },
+    {
+      "id": "bondiola-braseada",
+      "title": "Bondiola Braseada",
+      "description": "Braised pork shoulder — slow-cooked until fall-apart tender, rich and flavorful.",
+      "category": "Meats",
+      "image": "Argentine_Recipes_Images/Bondiola_Braseada.jpg",
+      "prepTime": 15,
+      "cookTime": 240,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "? (? ?)",
+          "quantity": "2",
+          "unit": "kg"
+        },
+        {
+          "name": "? ?",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "? (? ?)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Honey",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Smoked paprika",
+          "quantity": "1",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Bay leaf",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Salt and pepper",
+          "quantity": "",
+          "unit": "to taste"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Bondiola Braseada.",
+        "Begin cooking this traditional Bondiola Braseada.",
+        "Continue the Argentine method for Bondiola Braseada.",
+        "Complete preparation of Bondiola Braseada.",
+        "Finish cooking your Bondiola Braseada.",
+        "Plate and garnish the Bondiola Braseada.",
+        "Serve Bondiola Braseada hot."
+      ],
+      "tags": [
+        "Pork",
+        "Slow Cooking",
+        "Beer",
+        "Comfort",
+        "Winter"
+      ],
+      "originalName": "Bondiola Braseada"
+    },
+    {
+      "id": "medialunas-de-manteca",
+      "title": "Medialunas de Manteca",
+      "description": "Argentine croissants made with butter — flaky, slightly sweet pastries perfect for breakfast with coffee.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Medialunas_de_Manteca.jpg",
+      "prepTime": 120,
+      "cookTime": 18,
+      "servings": 24,
+      "difficulty": "Challenging",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "250",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "150",
+          "unit": "ml"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "80",
+          "unit": "g"
+        },
+        {
+          "name": "Dry yeast",
+          "quantity": "7",
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "100",
+          "unit": "g"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "50",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Medialunas de Manteca.",
+        "Begin cooking this traditional Medialunas de Manteca.",
+        "Continue the Argentine method for Medialunas de Manteca.",
+        "Complete preparation of Medialunas de Manteca.",
+        "Finish cooking your Medialunas de Manteca.",
+        "Plate and garnish the Medialunas de Manteca.",
+        "Serve Medialunas de Manteca hot.",
+        "Step 8 for Medialunas de Manteca."
+      ],
+      "tags": [
+        "Bakery",
+        "Breakfast",
+        "Butter",
+        "Buenos Aires",
+        "Croissant"
+      ],
+      "originalName": "Medialunas de Manteca"
+    },
+    {
+      "id": "medialunas-de-grasa",
+      "title": "Medialunas de Grasa",
+      "description": "Argentine croissants made with lard — a traditional version with a unique flavor and texture.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Medialunas_de_Grasa.jpg",
+      "prepTime": 90,
+      "cookTime": 18,
+      "servings": 20,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (?) ? ?",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "Dry yeast",
+          "quantity": "7",
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "30",
+          "unit": "g"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Egg (for brushing)",
+          "quantity": "1",
+          "unit": "unit"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Medialunas de Grasa.",
+        "Begin cooking this traditional Medialunas de Grasa.",
+        "Continue the Argentine method for Medialunas de Grasa.",
+        "Complete preparation of Medialunas de Grasa.",
+        "Finish cooking your Medialunas de Grasa.",
+        "Plate and garnish the Medialunas de Grasa.",
+        "Serve Medialunas de Grasa hot."
+      ],
+      "tags": [
+        "Bakery",
+        "Breakfast",
+        "Savory",
+        "Classic",
+        "Bakery"
+      ],
+      "originalName": "Medialunas de Grasa"
+    },
+    {
+      "id": "facturas-surtidas",
+      "title": "Facturas Surtidas",
+      "description": "Assorted Argentine pastries from the bakery — sweet treats for morning coffee or afternoon merienda.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Facturas_Surtidas.jpg",
+      "prepTime": 90,
+      "cookTime": 15,
+      "servings": 24,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "Softened butter",
+          "quantity": "100",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "50",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "180",
+          "unit": "ml"
+        },
+        {
+          "name": "Dry yeast",
+          "quantity": "10",
+          "unit": "g"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "60",
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "? ? ?'? (?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Powdered sugar (for dusting)",
+          "quantity": "50",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Facturas Surtidas.",
+        "Begin cooking this traditional Facturas Surtidas.",
+        "Continue the Argentine method for Facturas Surtidas.",
+        "Complete preparation of Facturas Surtidas.",
+        "Finish cooking your Facturas Surtidas.",
+        "Plate and garnish the Facturas Surtidas.",
+        "Serve Facturas Surtidas hot.",
+        "Step 8 for Facturas Surtidas."
+      ],
+      "tags": [
+        "Pastries",
+        "Bakery",
+        "Breakfast",
+        "Variety",
+        "Sweet"
+      ],
+      "originalName": "Facturas Surtidas"
+    },
+    {
+      "id": "bizcochos-de-grasa",
+      "title": "Bizcochos de Grasa",
+      "description": "Traditional Argentine biscuits made with lard — perfect for dunking in mate or coffee.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Bizcochos_de_Grasa.jpg",
+      "prepTime": 20,
+      "cookTime": 20,
+      "servings": 30,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "150",
+          "unit": "ml"
+        },
+        {
+          "name": "Dry yeast",
+          "quantity": "5",
+          "unit": "g"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Bizcochos de Grasa.",
+        "Begin cooking this traditional Bizcochos de Grasa.",
+        "Continue the Argentine method for Bizcochos de Grasa.",
+        "Complete preparation of Bizcochos de Grasa.",
+        "Finish cooking your Bizcochos de Grasa.",
+        "Plate and garnish the Bizcochos de Grasa."
+      ],
+      "tags": [
+        "Biscuit",
+        "Savory",
+        "Mate",
+        "Merienda",
+        "Simple"
+      ],
+      "originalName": "Bizcochos de Grasa"
+    },
+    {
+      "id": "pan-de-campo",
+      "title": "Pan de Campo",
+      "description": "Argentine countryside bread — a rustic, hearty bread traditionally cooked over an open fire.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Pan_de_Campo.jpg",
+      "prepTime": 20,
+      "cookTime": 35,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "? ? ? ?",
+          "quantity": "80",
+          "unit": "g"
+        },
+        {
+          "name": "Lukewarm water",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "Dry yeast",
+          "quantity": "5",
+          "unit": "g"
+        },
+        {
+          "name": "Salt",
+          "quantity": "2",
+          "unit": "tsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Pan de Campo.",
+        "Begin cooking this traditional Pan de Campo.",
+        "Continue the Argentine method for Pan de Campo.",
+        "Complete preparation of Pan de Campo.",
+        "Finish cooking your Pan de Campo.",
+        "Plate and garnish the Pan de Campo."
+      ],
+      "tags": [
+        "[ingredient]",
+        "[ingredient]",
+        "[ingredient]'[ingredient]",
+        "[ingredient]",
+        "Basic"
+      ],
+      "originalName": "Pan de Campo"
+    },
+    {
+      "id": "torta-fritas",
+      "title": "Torta Fritas",
+      "description": "Fried dough discs — simple, comforting Argentine street food perfect for rainy days.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Torta_Fritas.jpg",
+      "prepTime": 15,
+      "cookTime": 15,
+      "servings": 12,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "300",
+          "unit": "g"
+        },
+        {
+          "name": "? ? ? ?",
+          "quantity": "50",
+          "unit": "g"
+        },
+        {
+          "name": "Lukewarm water",
+          "quantity": "120",
+          "unit": "ml"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Baking powder",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "Oil for frying",
+          "quantity": "500",
+          "unit": "ml"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "50",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Torta Fritas.",
+        "Begin cooking this traditional Torta Fritas.",
+        "Continue the Argentine method for Torta Fritas.",
+        "Complete preparation of Torta Fritas.",
+        "Finish cooking your Torta Fritas.",
+        "Plate and garnish the Torta Fritas."
+      ],
+      "tags": [
+        "[ingredient]",
+        "[ingredient]",
+        "Mate",
+        "Merienda",
+        "Traditional"
+      ],
+      "originalName": "Torta Fritas"
+    },
+    {
+      "id": "chipas",
+      "title": "Chipá",
+      "description": "Cheese bread from northeastern Argentina — small, chewy rolls with a unique flavor.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Chipa.jpg",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 20,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "? ? (? ? ?)",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (? ? ?'?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Milk",
+          "quantity": "100",
+          "unit": "ml"
+        },
+        {
+          "name": "Butter",
+          "quantity": "80",
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Chipá.",
+        "Begin cooking this traditional Chipá.",
+        "Continue the Argentine method for Chipá.",
+        "Complete preparation of Chipá.",
+        "Finish cooking your Chipá.",
+        "Plate and garnish the Chipá."
+      ],
+      "tags": [
+        "Cheese",
+        "[ingredient]",
+        "[ingredient]",
+        "[ingredient] [ingredient]",
+        "Snack"
+      ],
+      "originalName": "Chipá"
+    },
+    {
+      "id": "fugazzeta",
+      "title": "Fugazzeta",
+      "description": "Argentine stuffed pizza filled with mozzarella and topped with onions — a Buenos Aires pizzeria classic.",
+      "category": "Pastries",
+      "image": "Argentine_Recipes_Images/Fugazzeta.jpg",
+      "prepTime": 90,
+      "cookTime": 25,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "Dry yeast",
+          "quantity": "7",
+          "unit": "g"
+        },
+        {
+          "name": "Lukewarm water",
+          "quantity": "300",
+          "unit": "ml"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": "3",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1.5",
+          "unit": "tsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (? ?)",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "Dried oregano",
+          "quantity": "1",
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Fugazzeta.",
+        "Begin cooking this traditional Fugazzeta.",
+        "Continue the Argentine method for Fugazzeta.",
+        "Complete preparation of Fugazzeta.",
+        "Finish cooking your Fugazzeta.",
+        "Plate and garnish the Fugazzeta.",
+        "Serve Fugazzeta hot."
+      ],
+      "tags": [
+        "[ingredient]",
+        "Cheese",
+        "[ingredient]",
+        "Buenos Aires",
+        "Italian-Argentine"
+      ],
+      "originalName": "Fugazzeta"
+    },
+    {
+      "id": "rogel",
+      "title": "Rogel",
+      "description": "Elegant Argentine layered cake with dulce de leche and Italian meringue — a special occasion dessert.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Rogel.jpg",
+      "prepTime": 60,
+      "cookTime": 40,
+      "servings": 12,
+      "difficulty": "Challenging",
+      "ingredients": [
+        {
+          "name": "All-purpose flour",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Egg yolks",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "Cold water",
+          "quantity": "50",
+          "unit": "ml"
+        },
+        {
+          "name": "Salt",
+          "quantity": "pinch",
+          "unit": ""
+        },
+        {
+          "name": "? ? ?'? ?",
+          "quantity": "500",
+          "unit": "g"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "4",
+          "unit": "units"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "? (? ?)",
+          "quantity": "80",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Rogel.",
+        "Begin cooking this traditional Rogel.",
+        "Continue the Argentine method for Rogel.",
+        "Complete preparation of Rogel.",
+        "Finish cooking your Rogel.",
+        "Plate and garnish the Rogel.",
+        "Serve Rogel hot."
+      ],
+      "tags": [
+        "Cake",
+        "Dulce de Leche",
+        "Meringue",
+        "Festive",
+        "[ingredient]"
+      ],
+      "originalName": "Rogel"
+    },
+    {
+      "id": "flan-con-dulce-de-leche",
+      "title": "Flan con Dulce de Leche",
+      "description": "Classic vanilla flan with dulce de leche — Argentina's most beloved traditional dessert.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Flan_con_Dulce_de_Leche.jpg",
+      "prepTime": 15,
+      "cookTime": 60,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "quantity": "6",
+          "unit": "units"
+        },
+        {
+          "name": "Whole milk",
+          "quantity": "750",
+          "unit": "ml"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "50",
+          "unit": "ml"
+        },
+        {
+          "name": "? ? ?'? (?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "200",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Flan con Dulce de Leche.",
+        "Begin cooking this traditional Flan con Dulce de Leche.",
+        "Continue the Argentine method for Flan con Dulce de Leche.",
+        "Complete preparation of Flan con Dulce de Leche.",
+        "Finish cooking your Flan con Dulce de Leche.",
+        "Plate and garnish the Flan con Dulce de Leche.",
+        "Serve Flan con Dulce de Leche hot."
+      ],
+      "tags": [
+        "Dessert",
+        "Caramel",
+        "[ingredient]",
+        "Dulce de Leche",
+        "Classic"
+      ],
+      "originalName": "Flan con Dulce de Leche"
+    },
+    {
+      "id": "postre-balcarce",
+      "title": "Postre Balcarce",
+      "description": "Layered cake from Mar del Plata with meringue, dulce de leche, and peaches — an elegant Argentine classic.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Postre_Balcarce.jpg",
+      "prepTime": 45,
+      "cookTime": 30,
+      "servings": 10,
+      "difficulty": "Challenging",
+      "ingredients": [
+        {
+          "name": "? (?)",
+          "quantity": "6",
+          "unit": "units"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "Flour",
+          "quantity": "120",
+          "unit": "g"
+        },
+        {
+          "name": "? (?)",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "? ?",
+          "quantity": "400",
+          "unit": "ml"
+        },
+        {
+          "name": "Dulce de leche",
+          "quantity": "300",
+          "unit": "g"
+        },
+        {
+          "name": "? (?, ?)",
+          "quantity": "1",
+          "unit": "[ingredient]"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "100",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Postre Balcarce.",
+        "Begin cooking this traditional Postre Balcarce.",
+        "Continue the Argentine method for Postre Balcarce.",
+        "Complete preparation of Postre Balcarce.",
+        "Finish cooking your Postre Balcarce.",
+        "Plate and garnish the Postre Balcarce.",
+        "Serve Postre Balcarce hot."
+      ],
+      "tags": [
+        "Cake",
+        "Meringue",
+        "[ingredient]",
+        "Festive",
+        "[ingredient]"
+      ],
+      "originalName": "Postre Balcarce"
+    },
+    {
+      "id": "queso-y-dulce",
+      "title": "Queso y Dulce",
+      "description": "Cheese and sweet quince paste — the simplest and most traditional Argentine dessert combination.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Queso_y_Dulce.jpg",
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "? ? ? ? ? ?",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "? ? ? (? ?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "? ? ? (? ?), ?",
+          "quantity": "200",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Queso y Dulce.",
+        "Begin cooking this traditional Queso y Dulce.",
+        "Continue the Argentine method for Queso y Dulce.",
+        "Complete preparation of Queso y Dulce."
+      ],
+      "tags": [
+        "Dessert",
+        "Cheese",
+        "No Cooking",
+        "Traditional",
+        "Simple"
+      ],
+      "originalName": "Queso y Dulce"
+    },
+    {
+      "id": "chocotorta",
+      "title": "Chocotorta",
+      "description": "No-bake chocolate cookie cake with dulce de leche — a retro Argentine favorite that's making a comeback.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Chocotorta.jpg",
+      "prepTime": 20,
+      "cookTime": 0,
+      "servings": 10,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "? ? (? ? ? ?)",
+          "quantity": "3",
+          "unit": "[ingredient] (400 [ingredient])"
+        },
+        {
+          "name": "Dulce de leche",
+          "quantity": "400",
+          "unit": "g"
+        },
+        {
+          "name": "Cream cheese",
+          "quantity": "300",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "? ? ? (?)",
+          "quantity": "50",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Chocotorta.",
+        "Begin cooking this traditional Chocotorta.",
+        "Continue the Argentine method for Chocotorta.",
+        "Complete preparation of Chocotorta.",
+        "Finish cooking your Chocotorta.",
+        "Plate and garnish the Chocotorta."
+      ],
+      "tags": [
+        "Cake",
+        "Chocolate",
+        "No Bake",
+        "[ingredient] [ingredient]",
+        "Dulce de Leche"
+      ],
+      "originalName": "Chocotorta"
+    },
+    {
+      "id": "vigilante",
+      "title": "Vigilante",
+      "description": "Cheese with sweet quince or sweet potato paste — the traditional name for Argentina's classic dessert pairing.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Vigilante.jpg",
+      "prepTime": 5,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "? ? ? ? (? ? ?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "? ? ? (? ?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "50",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Vigilante.",
+        "Begin cooking this traditional Vigilante.",
+        "Continue the Argentine method for Vigilante.",
+        "Complete preparation of Vigilante."
+      ],
+      "tags": [
+        "Dessert",
+        "Cheese",
+        "[ingredient]",
+        "No Cooking",
+        "[ingredient]"
+      ],
+      "originalName": "Vigilante"
+    },
+    {
+      "id": "arroz-con-leche",
+      "title": "Arroz con Leche",
+      "description": "Argentine rice pudding with cinnamon and vanilla — creamy, comforting, and perfectly spiced.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Arroz_con_Leche.jpg",
+      "prepTime": 5,
+      "cookTime": 45,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "? ? (? ?)",
+          "quantity": "200",
+          "unit": "g"
+        },
+        {
+          "name": "Whole milk",
+          "quantity": "1",
+          "unit": "L"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "? ? (? ?)",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "? ?",
+          "quantity": "1",
+          "unit": "unit"
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": "1",
+          "unit": "tsp"
+        },
+        {
+          "name": "? ? (?)",
+          "quantity": "1",
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Arroz con Leche.",
+        "Begin cooking this traditional Arroz con Leche.",
+        "Continue the Argentine method for Arroz con Leche.",
+        "Complete preparation of Arroz con Leche.",
+        "Finish cooking your Arroz con Leche.",
+        "Plate and garnish the Arroz con Leche."
+      ],
+      "tags": [
+        "Rice",
+        "Milk",
+        "Cinnamon",
+        "[ingredient]",
+        "Kids"
+      ],
+      "originalName": "Arroz con Leche"
+    },
+    {
+      "id": "panqueques-con-dulce-de-leche",
+      "title": "Panqueques con Dulce de Leche",
+      "description": "Thin pancakes filled with dulce de leche — a simple yet irresistible Argentine treat.",
+      "category": "Desserts",
+      "image": "Argentine_Recipes_Images/Panqueques_con_Dulce_de_Leche.jpg",
+      "prepTime": 10,
+      "cookTime": 15,
+      "servings": 8,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "Flour",
+          "quantity": "150",
+          "unit": "g"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2",
+          "unit": "units"
+        },
+        {
+          "name": "Milk",
+          "quantity": "300",
+          "unit": "ml"
+        },
+        {
+          "name": "Melted butter",
+          "quantity": "20",
+          "unit": "g"
+        },
+        {
+          "name": "Salt",
+          "quantity": "pinch",
+          "unit": ""
+        },
+        {
+          "name": "Dulce de leche",
+          "quantity": "300",
+          "unit": "g"
+        },
+        {
+          "name": "Powdered sugar (for dusting)",
+          "quantity": "20",
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Prepare ingredients for Panqueques con Dulce de Leche.",
+        "Begin cooking this traditional Panqueques con Dulce de Leche.",
+        "Continue the Argentine method for Panqueques con Dulce de Leche.",
+        "Complete preparation of Panqueques con Dulce de Leche.",
+        "Finish cooking your Panqueques con Dulce de Leche.",
+        "Plate and garnish the Panqueques con Dulce de Leche."
+      ],
+      "tags": [
+        "[ingredient]",
+        "Dulce de Leche",
+        "Kids",
+        "Merienda",
+        "Quick"
+      ],
+      "originalName": "Panqueques con Dulce de Leche"
+    }
+  ]
+}

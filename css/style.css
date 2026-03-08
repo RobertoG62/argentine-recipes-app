@@ -21,6 +21,19 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* --- Language-Specific Fonts --- */
+html[lang="he"] body {
+    font-family: 'Heebo', sans-serif;
+}
+
+html[lang="en"] body {
+    font-family: 'Inter', sans-serif;
+}
+
+html[lang="en"] .font-playfair {
+    font-family: 'Playfair Display', serif;
+}
+
 /* --- Glassmorphism --- */
 .glass {
     background: rgba(255, 255, 255, 0.85);
@@ -308,7 +321,67 @@ body {
     font-size: 1.25rem;
 }
 
-/* --- Gold Border (RTL: right border) --- */
-.gold-border-right {
+/* --- Gold Border (RTL: right border, LTR: left border) --- */
+html[dir="rtl"] .gold-border-right {
     border-right: 3px solid var(--ar-gold);
+    border-left: none;
+}
+
+html[dir="ltr"] .gold-border-right {
+    border-left: 3px solid var(--ar-gold);
+    border-right: none;
+}
+
+/* --- Language Switcher --- */
+.language-switcher {
+    display: flex;
+    gap: 0;
+    border: 2px solid var(--ar-gold);
+    border-radius: 8px;
+    overflow: hidden;
+    background: white;
+}
+
+.lang-btn {
+    padding: 6px 14px;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    color: var(--ar-gold);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    letter-spacing: 0.5px;
+}
+
+.lang-btn:hover {
+    background: rgba(201, 168, 76, 0.1);
+}
+
+.lang-btn.active {
+    background: var(--ar-gold);
+    color: white;
+}
+
+.lang-btn:not(:last-child) {
+    border-right: 1px solid rgba(201, 168, 76, 0.3);
+}
+
+/* --- RTL/LTR Meta Item Borders --- */
+html[dir="rtl"] .meta-item:not(:last-child) {
+    border-left: 1px solid var(--ar-border);
+    border-right: none;
+}
+
+html[dir="ltr"] .meta-item:not(:last-child) {
+    border-right: 1px solid var(--ar-border);
+    border-left: none;
+}
+
+/* --- Responsive adjustments for language switcher --- */
+@media (max-width: 640px) {
+    .lang-btn {
+        padding: 5px 10px;
+        font-size: 0.75rem;
+    }
 }
