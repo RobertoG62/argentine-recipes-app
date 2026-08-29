@@ -7,49 +7,27 @@
     <meta property="og:title" content="המטבח הארגנטינאי">
     <meta property="og:description" content="מתכונים אותנטיים מהלב של בואנוס איירס">
     <meta property="og:type" content="website">
+    <!-- Security policy declared before any resource so it governs them all.
+         style-src allows 'unsafe-inline' for Tailwind-generated styles only.
+         frame-ancestors / X-Content-Type-Options need real headers, which
+         GitHub Pages cannot set - see governance/risk-register.md -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; base-uri 'self'; form-action 'self'">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+
+    <!-- Self-hosted assets: zero third-party requests. See governance/data-map.md -->
+    <link rel="stylesheet" href="assets/css/tailwind.css">
+    <link rel="stylesheet" href="assets/fonts/fonts.css">
+    <link rel="stylesheet" href="assets/vendor/fontawesome/fontawesome.min.css">
     <title>המטבח הארגנטינאי — מתכונים אותנטיים</title>
 
-    <!-- Tailwind CSS v4 CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        'ar-gold': '#C9A84C',
-                        'ar-gold-light': '#E8D9A0',
-                        'ar-gold-dark': '#A68A3C',
-                        'ar-cream': '#FAFAFA',
-                        'ar-charcoal': '#1A1A1A',
-                        'ar-navy': '#0A1628',
-                        'ar-warm-gray': '#F5F0EB',
-                        'ar-text-secondary': '#6B7280',
-                        'ar-border': '#E5E1DC',
-                        'ar-success': '#16A34A',
-                        'ar-warning': '#D97706',
-                        'ar-danger': '#DC2626',
-                    },
-                    fontFamily: {
-                        'heebo': ['Heebo', 'sans-serif'],
-                        'playfair': ['Playfair Display', 'serif'],
-                    },
-                }
-            }
-        }
-    </script>
-
     <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700&family=Playfair+Display:wght@600;700&family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
-
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
     <!-- Custom Styles -->
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="bg-ar-cream font-heebo text-ar-charcoal min-h-screen">
+
+    <a href="#main" class="skip-link" data-en="Skip to main content" data-he="דלג לתוכן העיקרי">דלג לתוכן העיקרי</a>
 
     <!-- Header -->
     <header id="app-header" class="fixed top-0 right-0 left-0 z-50 transition-all duration-200">
@@ -74,7 +52,7 @@
     </header>
 
     <!-- Main Content -->
-    <main>
+    <main id="main">
         <!-- Home View -->
         <div id="home-view">
             <!-- Hero Section -->
@@ -121,6 +99,9 @@
 
             <!-- Recipe Grid -->
             <section class="max-w-6xl mx-auto px-4 py-8">
+                <!-- Screen-reader-only: the cards below use h3, so the hierarchy
+                     needs an h2 here. Hidden visually; the design is unchanged. -->
+                <h2 class="sr-only-heading" data-en="Recipes" data-he="מתכונים">מתכונים</h2>
                 <div id="recipe-grid" class="grid gap-6" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));">
                     <!-- Populated by JS -->
                 </div>
@@ -167,6 +148,17 @@
                     <span>לעוד מתכוני עולם — חזרה לרכזת המתכונים</span>
                     <i class="fa-solid fa-arrow-up-right-from-square text-sm"></i>
                 </a>
+            </div>
+        </div>
+
+        <div class="max-w-6xl mx-auto px-4 text-center mt-8 pt-8 border-t border-white/10">
+            <p class="text-sm leading-relaxed max-w-3xl mx-auto mb-5" class="text-white/75"
+               data-en="AI transparency: the recipes and texts on this site were generated and edited with AI tools under human review. They are general guidance, not professional culinary or nutritional advice. Check ingredients against your own allergies."
+               data-he="שקיפות AI: המתכונים והטקסטים באתר נוצרו ונערכו בסיוע כלי בינה מלאכותית, בבקרה אנושית. הם מידע כללי ואינם ייעוץ קולינרי או תזונתי מקצועי. יש לבדוק את הרכיבים מול האלרגיות שלך.">שקיפות AI: המתכונים והטקסטים באתר נוצרו ונערכו בסיוע כלי בינה מלאכותית, בבקרה אנושית. הם מידע כללי ואינם ייעוץ קולינרי או תזונתי מקצועי. יש לבדוק את הרכיבים מול האלרגיות שלך.</p>
+            <div class="flex flex-wrap justify-center gap-x-8 gap-y-2 text-sm">
+                <a href="privacy.html" class="text-white/75 hover:underline" data-en="Privacy Policy" data-he="מדיניות פרטיות">מדיניות פרטיות</a>
+                <a href="terms.html" class="text-white/75 hover:underline" data-en="Terms of Use" data-he="תנאי שימוש">תנאי שימוש</a>
+                <a href="accessibility.html" class="text-white/75 hover:underline" data-en="Accessibility" data-he="הצהרת נגישות">הצהרת נגישות</a>
             </div>
         </div>
     </footer>

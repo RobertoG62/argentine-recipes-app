@@ -91,7 +91,7 @@ const UI = (() => {
                 </div>
                 <div class="p-4">
                     <h3 class="font-bold text-lg mb-0.5 text-ar-charcoal">${recipe.title}</h3>
-                    ${recipe.originalName ? `<p class="text-ar-gold-dark text-xs italic mb-2 font-playfair">${recipe.originalName}</p>` : ''}
+                    ${recipe.originalName ? `<p class="recipe-original-name text-xs italic mb-2 font-playfair">${recipe.originalName}</p>` : ''}
                     <p class="text-ar-text-secondary text-sm line-clamp-2 mb-3">${recipe.description}</p>
                     <div class="flex items-center justify-between text-xs text-ar-text-secondary">
                         <div class="flex items-center gap-3">
