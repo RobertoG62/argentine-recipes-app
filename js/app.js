@@ -88,8 +88,9 @@
         UI.showLoading();
         await RecipeData.switchLanguage(lang);
 
-        // Re-render
-        renderHome();
+        // Re-render whatever view is open. renderHome() alone left a recipe
+        // that was already on screen showing its previous-language content.
+        handleRoute();
 
         // Update active button
         document.querySelectorAll('.lang-btn').forEach(btn => {
